@@ -1,0 +1,322 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction and Greetings",
+            "sequence_range": "1-4",
+            "start_time": 2414,
+            "end_time": 24383
+        },
+        {
+            "topic": "Mood and Weather",
+            "sequence_range": "5-7",
+            "start_time": 24923,
+            "end_time": 33266
+        },
+        {
+            "topic": "Happiness and Sorrow",
+            "sequence_range": "8-9",
+            "start_time": 33286,
+            "end_time": 38248
+        },
+        {
+            "topic": "Bar Experience in Provins",
+            "sequence_range": "10-12",
+            "start_time": 38748,
+            "end_time": 57601
+        },
+        {
+            "topic": "Oysters and Rhode Island",
+            "sequence_range": "13-17",
+            "start_time": 57621,
+            "end_time": 84075
+        },
+        {
+            "topic": "Dining Experiences",
+            "sequence_range": "18-20",
+            "start_time": 84095,
+            "end_time": 90538
+        },
+        {
+            "topic": "Lunch Choices and Preferences",
+            "sequence_range": "21-27",
+            "start_time": 91759,
+            "end_time": 122595
+        },
+        {
+            "topic": "Cooking and Meals",
+            "sequence_range": "28-36",
+            "start_time": 123335,
+            "end_time": 169508
+        },
+        {
+            "topic": "Capers and M&M's",
+            "sequence_range": "37-39",
+            "start_time": 169518,
+            "end_time": 187831
+        },
+        {
+            "topic": "Podcast Sponsorship and Content",
+            "sequence_range": "40-42",
+            "start_time": 188031,
+            "end_time": 198313
+        },
+        {
+            "topic": "Emotional Well-being and Crying",
+            "sequence_range": "43-56",
+            "start_time": 200473,
+            "end_time": 314778
+        },
+        {
+            "topic": "Concerns about Whining and Listener Fatigue",
+            "sequence_range": "57-66",
+            "start_time": 315198,
+            "end_time": 424956
+        },
+        {
+            "topic": "Character Building and Interviews",
+            "sequence_range": "67-72",
+            "start_time": 425338,
+            "end_time": 532691
+        },
+        {
+            "topic": "Sad Fishing and Social Media",
+            "sequence_range": "73-81",
+            "start_time": 533111,
+            "end_time": 592758
+        },
+        {
+            "topic": "Bela Hadid and Performative Vulnerability",
+            "sequence_range": "82-87",
+            "start_time": 592778,
+            "end_time": 615232
+        },
+        {
+            "topic": "Crying as a Concept and Relief",
+            "sequence_range": "88-100",
+            "start_time": 615452,
+            "end_time": 824588
+        },
+        {
+            "topic": "Maria de Oignir and Mysticism",
+            "sequence_range": "101-120",
+            "start_time": 825208,
+            "end_time": 977539
+        },
+        {
+            "topic": "Lacrimalphagia and Emotional Eating",
+            "sequence_range": "121-127",
+            "start_time": 977900,
+            "end_time": 1142712
+        },
+        {
+            "topic": "Relics and Personal Items",
+            "sequence_range": "128-142",
+            "start_time": 1143312,
+            "end_time": 1242532
+        },
+        {
+            "topic": "Crying as a Healing Potion",
+            "sequence_range": "143-150",
+            "start_time": 1242592,
+            "end_time": 1364625
+        },
+        {
+            "topic": "Embarrassment and Secondhand Emotion",
+            "sequence_range": "180-185",
+            "start_time": 1607711,
+            "end_time": 1654077
+        },
+        {
+            "topic": "Tears of Joy and Emotional Tears",
+            "sequence_range": "186-190",
+            "start_time": 1654117,
+            "end_time": 1678342
+        },
+        {
+            "topic": "Categories of Crying",
+            "sequence_range": "191-192",
+            "start_time": 1678362,
+            "end_time": 1737099
+        },
+        {
+            "topic": "Types of Tears and Their Functions",
+            "sequence_range": "193-197",
+            "start_time": 1737679,
+            "end_time": 1789661
+        },
+        {
+            "topic": "Historical and Medical Perspectives on Tears",
+            "sequence_range": "198-207",
+            "start_time": 1789701,
+            "end_time": 1994505
+        },
+        {
+            "topic": "16th Century Medical Treatises on Tears",
+            "sequence_range": "208-213",
+            "start_time": 1994525,
+            "end_time": 2094706
+        },
+        {
+            "topic": "Sor Juana and the Poetic Aspect of Tears",
+            "sequence_range": "214-237",
+            "start_time": 2095027,
+            "end_time": 2260558
+        },
+        {
+            "topic": "Crying in Japanese Society and Business of Tears",
+            "sequence_range": "238-253",
+            "start_time": 2260578,
+            "end_time": 2426622
+        },
+        {
+            "topic": "Historical and Religious Scrutiny of Crying",
+            "sequence_range": "254-276",
+            "start_time": 2428403,
+            "end_time": 2694132
+        },
+        {
+            "topic": "Saint Teresa's Perspective on Crying",
+            "sequence_range": "277-317",
+            "start_time": 2694152,
+            "end_time": 3221240
+        },
+        {
+            "topic": "19th Century Literature and the Gift of Tears",
+            "sequence_range": "290-298",
+            "start_time": 2856606,
+            "end_time": 2896424
+        },
+        {
+            "topic": "Contemporary Reflections on Crying",
+            "sequence_range": "299-331",
+            "start_time": 2896444,
+            "end_time": 3360923
+        },
+        {
+            "topic": "Debate on Dulceida's documentary and tears",
+            "sequence_range": "332-332",
+            "start_time": 3361897,
+            "end_time": 3375883
+        },
+        {
+            "topic": "Angela de Fol\u00edn mention",
+            "sequence_range": "333-334",
+            "start_time": 3376063,
+            "end_time": 3378304
+        },
+        {
+            "topic": "Discussion on Saint Teresa's tears and identity",
+            "sequence_range": "338-340",
+            "start_time": 3384166,
+            "end_time": 3471650
+        },
+        {
+            "topic": "Expressions of sadness and strength",
+            "sequence_range": "341-345",
+            "start_time": 3471670,
+            "end_time": 3484356
+        },
+        {
+            "topic": "Maria de Santo Domingo's rhetoric of crying",
+            "sequence_range": "349-357",
+            "start_time": 3527892,
+            "end_time": 3671780
+        },
+        {
+            "topic": "Historical storytelling style of the 1930s",
+            "sequence_range": "358-364",
+            "start_time": 3671800,
+            "end_time": 3705752
+        },
+        {
+            "topic": "Personal reflections on arrogance and charm",
+            "sequence_range": "366-370",
+            "start_time": 3708233,
+            "end_time": 3748063
+        },
+        {
+            "topic": "Maria de Santo Domingo's trials and appearance",
+            "sequence_range": "373-378",
+            "start_time": 3756886,
+            "end_time": 3821437
+        },
+        {
+            "topic": "Discussion on the book of prayer and the invocation of tears",
+            "sequence_range": "380-387",
+            "start_time": 3823899,
+            "end_time": 3930898
+        },
+        {
+            "topic": "Biblical references and the role of tears",
+            "sequence_range": "389-406",
+            "start_time": 3937581,
+            "end_time": 4206302
+        },
+        {
+            "topic": "The role of Maria Santo Domingo and collective crying",
+            "sequence_range": "407-412",
+            "start_time": 4206342,
+            "end_time": 4296568
+        },
+        {
+            "topic": "Discussion on crying and its perception",
+            "sequence_range": "416-426",
+            "start_time": 4312464,
+            "end_time": 4556542
+        },
+        {
+            "topic": "Instructions for crying and historical perspectives",
+            "sequence_range": "430-449",
+            "start_time": 4571199,
+            "end_time": 4720342
+        },
+        {
+            "topic": "Virgin Mary's suffering and Holy Week reflections",
+            "sequence_range": "451-464",
+            "start_time": 4724329,
+            "end_time": 4881694
+        },
+        {
+            "topic": "Documentary appreciation and devotion to the Virgin of Sorrows",
+            "sequence_range": "465-471",
+            "start_time": 4881714,
+            "end_time": 4960905
+        },
+        {
+            "topic": "Female artists and sculptors of the 17th century",
+            "sequence_range": "472-477",
+            "start_time": 4962987,
+            "end_time": 5051345
+        },
+        {
+            "topic": "Conclusion on the tyranny of wanting to look pretty while crying",
+            "sequence_range": "481-481",
+            "start_time": 5060551,
+            "end_time": 5066995
+        },
+        {
+            "topic": "Emotional Support and Expression",
+            "sequence_range": "482-484",
+            "start_time": 5067015,
+            "end_time": 5101226
+        },
+        {
+            "topic": "Gratitude and Farewell",
+            "sequence_range": "485-486",
+            "start_time": 5101506,
+            "end_time": 5104047
+        },
+        {
+            "topic": "Self-Criticism and Encouragement",
+            "sequence_range": "487",
+            "start_time": 5104923,
+            "end_time": 5121971
+        },
+        {
+            "topic": "Podcast Production Credits",
+            "sequence_range": "488",
+            "start_time": 5137979,
+            "end_time": 5171137
+        }
+    ]
+}

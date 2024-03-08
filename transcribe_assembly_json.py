@@ -2,15 +2,13 @@ import requests
 import json
 from dotenv import load_dotenv
 import os
-
+from scripts.process_json import write_json
 
 load_dotenv()
 base_url = os.getenv('ASSEMBLY_API_URL')
 api_key = os.getenv('ASSEMBLY_API_KEY')
 transcribe_url = f'{base_url}/transcript'
 headers = {'authorization': api_key}
-
-print(base_url, api_key, transcribe_url)
 
 def transcribe_audio(file_path):
     """
@@ -51,9 +49,8 @@ def transcribe_audio(file_path):
             elif status == 'failed':
                 raise Exception("Transcription failed!")
     
-    # audio_url = upload_audio(file_path)
-    # transcription_id = request_transcription(audio_url)
-    transcription_id = "a461d90f-6ea9-4d8b-9fb5-8d1775635f51"
+    audio_url = upload_audio(file_path)
+    transcription_id = request_transcription(audio_url)
     transcription_result = check_transcription(transcription_id)
     
     return transcription_result
@@ -77,15 +74,11 @@ def save_json(data, file_name, folder_path='transcriptions'):
 
     # Create folder if it doesn't exist
     os.makedirs(folder_path, exist_ok=True)
-    file_path = os.path.join(folder_path, f"{file_name}-utterances.json")
-    
-    with open(file_path, 'w') as json_file:
-        json.dump(selected_data, json_file, indent=4)
-        
-    print(f"Transcription saved to {file_path}")
+    file_path = os.path.join(folder_path, f"{file_name}_utterances.json")
 
-# Example usage
-if __name__ == "__main__":
-    audio_file_path = "./Audio/Son estas lágrimas mi manjar.mp3"  # Update this to the path of your audio file
+    write_json(selected_data, file_path)
+
+def main(title, season): 
+    audio_file_path = f'./Audio/season_{season}/{title}.mp3'
     transcription_result = transcribe_audio(audio_file_path)
     save_json(transcription_result, os.path.splitext(os.path.basename(audio_file_path))[0])

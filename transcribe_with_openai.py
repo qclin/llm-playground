@@ -1,3 +1,5 @@
+# NOT USED 
+
 import os
 from openai import OpenAI
 

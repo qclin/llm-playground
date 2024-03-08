@@ -1,0 +1,226 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction to Podcast and Hosts",
+            "sequence_range": "1-4",
+            "start_time": 2414,
+            "end_time": 22796
+        },
+        {
+            "topic": "Personal Updates and Studio Experience",
+            "sequence_range": "5-9",
+            "start_time": 23376,
+            "end_time": 46888
+        },
+        {
+            "topic": "Breakfast Discussion",
+            "sequence_range": "10-14",
+            "start_time": 47048,
+            "end_time": 98092
+        },
+        {
+            "topic": "Trigger Warning and Hypochondria Discussion",
+            "sequence_range": "15-23",
+            "start_time": 98312,
+            "end_time": 293143
+        },
+        {
+            "topic": "Medical Incursions and Anatomical Fantasies",
+            "sequence_range": "24-33",
+            "start_time": 293223,
+            "end_time": 500933
+        },
+        {
+            "topic": "Academic and Personal Interests",
+            "sequence_range": "34-36",
+            "start_time": 503678,
+            "end_time": 577260
+        },
+        {
+            "topic": "Vesalius and Dissection",
+            "sequence_range": "37-50",
+            "start_time": 578201,
+            "end_time": 883193
+        },
+        {
+            "topic": "Personal Dissection Experiences",
+            "sequence_range": "51-54",
+            "start_time": 884983,
+            "end_time": 945633
+        },
+        {
+            "topic": "Theatricalization of Body Dissection",
+            "sequence_range": "55-59",
+            "start_time": 945913,
+            "end_time": 1009130
+        },
+        {
+            "topic": "Pathological Anatomy Practices",
+            "sequence_range": "60-63",
+            "start_time": 1010030,
+            "end_time": 1054839
+        },
+        {
+            "topic": "Cultural Obsession with Dissection",
+            "sequence_range": "64-76",
+            "start_time": 1056408,
+            "end_time": 1396233
+        },
+        {
+            "topic": "Body and Dissection as Hermeneutic Practice",
+            "sequence_range": "77-83",
+            "start_time": 1396273,
+            "end_time": 1465700
+        },
+        {
+            "topic": "Personal Fascination with Biology and Genetics",
+            "sequence_range": "84-86",
+            "start_time": 1465780,
+            "end_time": 1501764
+        },
+        {
+            "topic": "Jonathan Sodej's Contributions and Theories",
+            "sequence_range": "87-89",
+            "start_time": 1501924,
+            "end_time": 1562139
+        },
+        {
+            "topic": "Medusa Myth and Dissection Culture",
+            "sequence_range": "90-92",
+            "start_time": 1562339,
+            "end_time": 1596624
+        },
+        {
+            "topic": "Historiography and Women in Dissection",
+            "sequence_range": "93-95",
+            "start_time": 1597424,
+            "end_time": 1753230
+        },
+        {
+            "topic": "Anatomical Exploration and Female Body",
+            "sequence_range": "96-98",
+            "start_time": 1753750,
+            "end_time": 1786305
+        },
+        {
+            "topic": "Literature and Dissection",
+            "sequence_range": "99-101",
+            "start_time": 1786345,
+            "end_time": 1931196
+        },
+        {
+            "topic": "Conventual Knowledge and Sor Juana",
+            "sequence_range": "102-106",
+            "start_time": 1931216,
+            "end_time": 2034916
+        },
+        {
+            "topic": "Early European Dissections in Mexico",
+            "sequence_range": "107-111",
+            "start_time": 2035977,
+            "end_time": 2072454
+        },
+        {
+            "topic": "Anatomical Knowledge Outside Academic Circles",
+            "sequence_range": "112-116",
+            "start_time": 2073355,
+            "end_time": 2104482
+        },
+        {
+            "topic": "Dissection, Women, and Holy Autopsies",
+            "sequence_range": "117-120",
+            "start_time": 2104502,
+            "end_time": 2157529
+        },
+        {
+            "topic": "Relics and Anatomical Knowledge",
+            "sequence_range": "121-125",
+            "start_time": 2157589,
+            "end_time": 2210923
+        },
+        {
+            "topic": "Religious Context and Anatomical Study",
+            "sequence_range": "126-130",
+            "start_time": 2210943,
+            "end_time": 2314303
+        },
+        {
+            "topic": "Misinterpretation of Church's Stance on Dissection",
+            "sequence_range": "131-135",
+            "start_time": 2314363,
+            "end_time": 2352539
+        },
+        {
+            "topic": "Papal Bulls and Anatomical Practices",
+            "sequence_range": "136-140",
+            "start_time": 2352940,
+            "end_time": 2404377
+        },
+        {
+            "topic": "Anatomical Dissection and the Catholic Church",
+            "sequence_range": "141-145",
+            "start_time": 2404437,
+            "end_time": 2491064
+        },
+        {
+            "topic": "Katherine Park's Research on Gender and Dissection",
+            "sequence_range": "146-150",
+            "start_time": 2492144,
+            "end_time": 2557869
+        },
+        {
+            "topic": "Conventual Spaces and Anatomical Knowledge",
+            "sequence_range": "151-155",
+            "start_time": 2557929,
+            "end_time": 2644275
+        },
+        {
+            "topic": "Marginality and Female Spaces in Anatomical Study",
+            "sequence_range": "156-161",
+            "start_time": 2644536,
+            "end_time": 2760641
+        },
+        {
+            "topic": "Historical Dissection Practices in Convents",
+            "sequence_range": "162-162",
+            "start_time": 2760761,
+            "end_time": 2840077
+        },
+        {
+            "topic": "Chiara of Montefalco's Life and Mystical Experiences",
+            "sequence_range": "163-163",
+            "start_time": 2840437,
+            "end_time": 2925750
+        },
+        {
+            "topic": "Embalming and Examination of Chiara of Montefalco's Body",
+            "sequence_range": "164-172",
+            "start_time": 2925871,
+            "end_time": 3094333
+        },
+        {
+            "topic": "Investigation and Findings within Chiara of Montefalco's Body",
+            "sequence_range": "173-175",
+            "start_time": 3094513,
+            "end_time": 3165857
+        },
+        {
+            "topic": "Conventual Anatomical Knowledge vs. Medical Authority",
+            "sequence_range": "176-177",
+            "start_time": 3166578,
+            "end_time": 3293658
+        },
+        {
+            "topic": "Conclusion and Reflections on Dissection Practices",
+            "sequence_range": "178-182",
+            "start_time": 3293678,
+            "end_time": 3318926
+        },
+        {
+            "topic": "Podcast Credits and Acknowledgments",
+            "sequence_range": "183-185",
+            "start_time": 3318946,
+            "end_time": 3368790
+        }
+    ]
+}

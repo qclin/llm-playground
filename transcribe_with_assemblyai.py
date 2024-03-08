@@ -1,3 +1,5 @@
+# NOT USED 
+
 import assemblyai as aai
 from dotenv import load_dotenv
 import os
