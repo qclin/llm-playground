@@ -1,10 +1,18 @@
-import os
+from dotenv import load_dotenv
 from openai import OpenAI
-# from googletrans import Translator
+import os
+import deepl
+
+load_dotenv()
 
 client = OpenAI(
     api_key=os.environ.get("OPENAI_API_KEY"),
 )
+
+
+deepl_api_key = os.environ.get("DEEPL_API_KEY")
+translator = deepl.Translator(deepl_api_key)
+
 
 def translate_text(text, source_language='es', target_language='en'):
     """
@@ -22,9 +30,7 @@ def translate_text(text, source_language='es', target_language='en'):
     )
     return response.choices[0].message.content.strip()
 
-# def translate_text_google(text, source_language='es', target_language='en'):
-
-#     translator = Translator()
-#     translated_text = translator.translate(text, src=source_language, dest=target_language)
-
-#     return translated_text.text
+def translate_with_deepl(text, source_lang='ES', target_lang="EN-US"): 
+    result = translator.translate_text(text, source_lang=source_lang, target_lang=target_lang)
+    print(result.text)
+    return result.text

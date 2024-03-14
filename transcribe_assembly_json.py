@@ -1,8 +1,7 @@
 import requests
-import json
 from dotenv import load_dotenv
 import os
-from scripts.process_json import write_json
+from scripts.process_json import write_json, check_json_file
 
 load_dotenv()
 base_url = os.getenv('ASSEMBLY_API_URL')
@@ -28,6 +27,7 @@ def transcribe_audio(file_path):
             "language_code": 'es', 
             "speaker_labels":True,
             "speakers_expected": 3, 
+            "entity_detection": True
             ### Not available in spanish 
             # "summarization":True, 
             # "summary_type":'paragraph', 
@@ -80,5 +80,10 @@ def save_json(data, file_name, folder_path='transcriptions'):
 
 def main(title, season): 
     audio_file_path = f'./Audio/season_{season}/{title}.mp3'
-    transcription_result = transcribe_audio(audio_file_path)
-    save_json(transcription_result, os.path.splitext(os.path.basename(audio_file_path))[0])
+    transcript_file_path = f'./transcriptions/{title}_utterances.json'
+
+    if check_json_file(transcript_file_path):
+        return 
+    else: 
+        transcription_result = transcribe_audio(audio_file_path)
+        save_json(transcription_result, os.path.splitext(os.path.basename(audio_file_path))[0])

@@ -1,0 +1,667 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction and Personal Anecdotes",
+            "sequences": "1"
+        },
+        {
+            "topic": "Evangelical Preaching and the Figure of Jezebel",
+            "sequences": "1-3"
+        },
+        {
+            "topic": "Women with Political Power and Influence",
+            "sequences": "2-3"
+        },
+        {
+            "topic": "Ana de Mendoza y de la Cerda, Princess of Éboli",
+            "sequences": "3"
+        },
+        {
+            "topic": "Convent Life and Religious Commitments",
+            "sequences": "4"
+        },
+        {
+            "topic": "Ana de Mendoza and Santa Teresa's Relationship",
+            "sequences": "1-5"
+        },
+        {
+            "topic": "Conventual Reforms and Conflicts",
+            "sequences": "1-5"
+        },
+        {
+            "topic": "Political Intrigues and Court Life in the Time of Felipe II",
+            "sequences": "1-5"
+        },
+        {
+            "topic": "Music and Emotion",
+            "sequences": "6"
+        },
+        {
+            "topic": "Historical Intrigues and Political Machinations",
+            "sequences": "1-7"
+        },
+        {
+            "topic": "Reflections on truth and discretion",
+            "sequences": "8"
+        },
+        {
+            "topic": "Historical analysis of María Jesús de Agreda and her influence",
+            "sequences": "9-11"
+        },
+        {
+            "topic": "Discussion on modern tabloids and comparison with historical figures",
+            "sequences": "11"
+        },
+        {
+            "topic": "Closing remarks",
+            "sequences": "12"
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1,
+                3
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Issa",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Jezebel",
+            "type": "Biblical Figure",
+            "sequences": [
+                2,
+                3
+            ]
+        },
+        {
+            "entity": "King Ahab",
+            "type": "Biblical Figure",
+            "sequences": [
+                2
+            ]
+        },
+        {
+            "entity": "Kamala Harris",
+            "type": "Political Figure",
+            "sequences": [
+                2
+            ]
+        },
+        {
+            "entity": "John Knox",
+            "type": "Historical Figure",
+            "sequences": [
+                2
+            ]
+        },
+        {
+            "entity": "Mary Tudor",
+            "type": "Historical Figure",
+            "sequences": [
+                2
+            ]
+        },
+        {
+            "entity": "Ana de Mendoza y de la Cerda",
+            "type": "Historical Figure",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Gregorio Marañón",
+            "type": "Historian",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "King Philip II",
+            "type": "Historical Figure",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Alonso Sanchez Coello",
+            "type": "Artist",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Antonio Perez",
+            "type": "Historical Figure",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Andrés de Almaguer",
+            "type": "Historical Figure",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Ruy Gomez",
+            "type": "Historical Figure",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Isabella de Valois",
+            "type": "Historical Figure",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Luisa de la Cerda",
+            "type": "Historical Figure",
+            "sequences": [
+                4
+            ]
+        },
+        {
+            "entity": "Mother Teresa",
+            "type": "Religious Figure",
+            "sequences": [
+                4
+            ]
+        },
+        {
+            "entity": "Ana de Mendoza",
+            "type": "Person",
+            "sequences": [
+                1,
+                5
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                1,
+                5
+            ]
+        },
+        {
+            "entity": "San Juan de la Cruz",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Diana de Mendoza",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Luisa de la Cerda",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Ruy Gómez de Silva",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Isabel de Santo Domingo",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Julian of Avila",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Antonio Perez",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Gregorio Marañón",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Pastrana",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Malagon",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Segovia",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Escorial",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Alba de Tormes",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Royal Academy of History",
+            "type": "Organization",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Antonio Pérez",
+            "type": "Person",
+            "sequences": [
+                6
+            ]
+        },
+        {
+            "entity": "Chino Real",
+            "type": "Person",
+            "sequences": [
+                6
+            ]
+        },
+        {
+            "entity": "Gipsy Borilay",
+            "type": "Person",
+            "sequences": [
+                6
+            ]
+        },
+        {
+            "entity": "Adela Fuente",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Council of State",
+            "type": "Organization",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ruy Gómez",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                1,
+                7
+            ]
+        },
+        {
+            "entity": "Duke of Alba",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Antonio Perez",
+            "type": "Person",
+            "sequences": [
+                1,
+                7
+            ]
+        },
+        {
+            "entity": "John of Austria",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Mary Stuart",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Juan de Escobedo",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ana de Mendoza",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Mateo Vázquez",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Kingdom of Aragon",
+            "type": "Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Paris",
+            "type": "Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Pastrana",
+            "type": "Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Sor Juana Inés de la Cruz",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Philip IV",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Count Duke of Olivares",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "María Jesús de Agreda",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Gregorio Marañón",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Fernando de Borja",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Don Luis de Haro",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Prince Balthasar Carlos",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Isabella of Bourbon",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Duchess of Mantua",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Doña Ana de Guevara",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Fray Alonso de Benavides",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Lucrecia de Leon",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Luisa de Carrión",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "José Pellicer y Tobar",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "John Elliot",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Chico y Chica",
+            "type": "Organization",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Mare Jesús de Agreda",
+            "type": "Person",
+            "sequences": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "entity": "Luis de Haro",
+            "type": "Person",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Felipe IV",
+            "type": "Person",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Francisco de Borja",
+            "type": "Person",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "St. Teresa",
+            "type": "Person",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                10,
+                11
+            ]
+        },
+        {
+            "entity": "Lola",
+            "type": "Organization",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "Lecturas",
+            "type": "Organization",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "Corina Garcel",
+            "type": "Person",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "Corinda Larsen",
+            "type": "Person",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "Princess of Eboli",
+            "type": "Person",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "Marbella",
+            "type": "Place",
+            "sequences": [
+                11
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "The First Trumpet Blast Against the Monstrous Government of Women by John Knox",
+            "sequence": 2
+        }
+    ]
+}

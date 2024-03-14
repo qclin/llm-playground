@@ -1,6 +1,7 @@
 from openai import OpenAI
 import os
-from scripts.process_json import load_json, write_json
+from scripts.process_json import load_json, write_json, check_json_file
+import json
 
 client = OpenAI(
     api_key=os.environ.get("OPENAI_API_KEY"),
@@ -39,17 +40,27 @@ def split_into_chunks(data, max_tokens=4096):
     return chunks
 
 
-def find_highlights(chunk):
+def find_highlights_and_entities(chunk):
+    prompt_for_analysis = (
+        "Analyze a list of transcriptions and their sequence numbers to identify key topics with corresponding sequences, "
+        "mention all entities (people, places, organizations, events, etc.) including the type of entity and all sequence numbers where each entity is mentioned, "
+        "and specifically identify any citations of literature (books, articles, authors, publication details) along with the sequence number each citation is mentioned in. "
+        "For entities, organize them into objects with 'entity', 'type', and 'sequences', where 'sequences' is a list of all unique sequence numbers the entity appears in. "
+        "Return a JSON object with 'topics', each containing 'topic' and a range of 'sequences' associated with it; 'entities', a list of such objects; "
+        "and 'citations', a list of objects with 'citation' details and 'sequence'. Ensure 'sequences' for topics are ranges (e.g., '1-5'), while for entities, 'sequences' should list all appearances, and for citations, include specific sequence numbers."
+    )
+
     response = client.chat.completions.create(
         response_format={ "type": "json_object" }, 
         model="gpt-4-0125-preview",
         messages=[{
             "role": "system",
-            "content": "Analyze a list of transcriptions and their sequence numbers to identify key topics and corresponding sequences."
+            "content": prompt_for_analysis
         },
         {
             "role": "user",
-            "content": f"Here's a list of transcripts: {chunk}. Find topics of interest and points of references and group sequences by theme. Return a JSON list with each object containing 'topics' and a range of 'sequences' associated with it, where sequences is not a list but a range."
+            "content": f"Here's a list of transcripts: {chunk}. Based on the instruction, identify and organize the topics and entities."
+
         }],
         max_tokens=1028,
         temperature=0,
@@ -58,10 +69,39 @@ def find_highlights(chunk):
 
     )
     
-    return response.choices[0].message.content.strip().split('\n')
+   
+
+    try:
+        content = response.choices[0].message.content
+        parsed_content = json.loads(content)
+        return parsed_content
+    except json.JSONDecodeError as e:
+        print(f"Error decoding JSON response: {e}")
+        return None
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return None
+    
+
+def deduplicate_citations(citations):
+    unique_citations = []
+    seen = set()
+    for citation in citations:
+        # Assuming each citation dict has a 'title' and 'author' keys
+        # Adjust the identifier as needed based on your citation structure
+        identifier = (citation.get('title'), citation.get('author'))
+        if identifier not in seen:
+            seen.add(identifier)
+            unique_citations.append(citation)
+    return unique_citations
 
 
 def main(file_name): 
+    output_filename = f'transcriptions/{file_name}_topics.json'
+
+    if check_json_file(output_filename):
+        return 
+    
     # Load the transcript data from the uploaded JSON file
     file_path = f'transcriptions/{file_name}_utterances.json'
     transcript_data = load_json(file_path)
@@ -70,11 +110,23 @@ def main(file_name):
     # Split the transcript data into chunks
     chunks = split_into_chunks(input_data)
 
-    highlights_with_sequences = []
+    all_highlights_with_sequences = []
+    all_entities = []
+    all_citations = []
     for chunk in chunks:
-        summary_highlights = find_highlights(chunk)
-        highlights_with_sequences.append(summary_highlights)
+        analysis_results = find_highlights_and_entities(chunk)
+        # Separate the processing of highlights and entities based on the new function output
+        all_highlights_with_sequences.extend(analysis_results['topics'])
+        all_entities.extend(analysis_results['entities'])
+        all_citations.extend(analysis_results['citations'])
 
-    results = {'topics': highlights_with_sequences}
-    output_filename = f'transcriptions/{file_name}_topics.json'
+    # Deduplicate citations 
+    unique_citations = deduplicate_citations(all_citations)  # Assuming direct deduplication is applicable
+
+    results = {
+        'topics': all_highlights_with_sequences,
+        'entities': all_entities, 
+        'citations': unique_citations
+    }
+    # Continue with writing results to file as previously shown
     write_json(results, output_filename)
