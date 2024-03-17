@@ -62,7 +62,7 @@ def find_highlights_and_entities(chunk):
             "content": f"Here's a list of transcripts: {chunk}. Based on the instruction, identify and organize the topics and entities."
 
         }],
-        max_tokens=1028,
+        max_tokens=2056,
         temperature=0,
         frequency_penalty=0,
         presence_penalty=0,
@@ -96,15 +96,9 @@ def deduplicate_citations(citations):
     return unique_citations
 
 
-def main(file_name): 
-    output_filename = f'transcriptions/{file_name}_topics.json'
-
-    if check_json_file(output_filename):
-        return 
-    
+def main(input_file, output_file): 
     # Load the transcript data from the uploaded JSON file
-    file_path = f'transcriptions/{file_name}_utterances.json'
-    transcript_data = load_json(file_path)
+    transcript_data = load_json(input_file)
 
     input_data = [{"text": subtitle['text_en'], "sequence": subtitle['sequence']} for subtitle in transcript_data]
     # Split the transcript data into chunks
@@ -129,4 +123,4 @@ def main(file_name):
         'citations': unique_citations
     }
     # Continue with writing results to file as previously shown
-    write_json(results, output_filename)
+    write_json(results, output_file)

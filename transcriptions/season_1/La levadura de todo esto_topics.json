@@ -2,59 +2,87 @@
     "topics": [
         {
             "topic": "Introduction and Personal Anecdotes",
-            "sequences": "1"
+            "sequence_range": "1",
+            "start_time": 16462,
+            "end_time": 189722
         },
         {
             "topic": "Evangelical Preaching and the Figure of Jezebel",
-            "sequences": "1-3"
+            "sequence_range": "1-3",
+            "start_time": 16462,
+            "end_time": 890528
         },
         {
             "topic": "Women with Political Power and Influence",
-            "sequences": "2-3"
+            "sequence_range": "2-3",
+            "start_time": 190322,
+            "end_time": 890528
         },
         {
             "topic": "Ana de Mendoza y de la Cerda, Princess of Éboli",
-            "sequences": "3"
+            "sequence_range": "3",
+            "start_time": 213022,
+            "end_time": 890528
         },
         {
             "topic": "Convent Life and Religious Commitments",
-            "sequences": "4"
+            "sequence_range": "4",
+            "start_time": 890588,
+            "end_time": 984732
         },
         {
             "topic": "Ana de Mendoza and Santa Teresa's Relationship",
-            "sequences": "1-5"
+            "sequence_range": "1-5",
+            "start_time": 16462,
+            "end_time": 2389015
         },
         {
             "topic": "Conventual Reforms and Conflicts",
-            "sequences": "1-5"
+            "sequence_range": "1-5",
+            "start_time": 16462,
+            "end_time": 2389015
         },
         {
             "topic": "Political Intrigues and Court Life in the Time of Felipe II",
-            "sequences": "1-5"
+            "sequence_range": "1-5",
+            "start_time": 16462,
+            "end_time": 2389015
         },
         {
             "topic": "Music and Emotion",
-            "sequences": "6"
+            "sequence_range": "6",
+            "start_time": 2389055,
+            "end_time": 2549870
         },
         {
             "topic": "Historical Intrigues and Political Machinations",
-            "sequences": "1-7"
+            "sequence_range": "1-7",
+            "start_time": 16462,
+            "end_time": 4452564
         },
         {
             "topic": "Reflections on truth and discretion",
-            "sequences": "8"
+            "sequence_range": "8",
+            "start_time": 4492741,
+            "end_time": 4637154
         },
         {
             "topic": "Historical analysis of María Jesús de Agreda and her influence",
-            "sequences": "9-11"
+            "sequence_range": "9-11",
+            "start_time": 4663465,
+            "end_time": 4977356
         },
         {
             "topic": "Discussion on modern tabloids and comparison with historical figures",
-            "sequences": "11"
+            "sequence_range": "11",
+            "start_time": 4774112,
+            "end_time": 4977356
         },
         {
             "topic": "Closing remarks",
-            "sequences": "12"
+            "sequence_range": "12",
+            "start_time": 4977676,
+            "end_time": 4981378
         }
     ],
     "entities": [

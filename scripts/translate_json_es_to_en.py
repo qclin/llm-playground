@@ -4,9 +4,8 @@ from .process_json import load_json, write_json
 
 def translate_transcription(file_path):
     """
-    Translates subtitles from Spanish to English using the OpenAI API.
+    Translates transcription from Spanish to English.
     """
-    
     subtitles = load_json(file_path)
     
     for subtitle in subtitles:
@@ -20,9 +19,3 @@ def translate_transcription(file_path):
     write_json(subtitles, file_path)
     
     print(f"Translated subtitles updated in {file_path}")
-
-# # Example usage
-# if __name__ == "__main__":
-#     json_file_path = 'transcriptions/Oro potable_utterances.json'
-#     translate_transcription(json_file_path)
-

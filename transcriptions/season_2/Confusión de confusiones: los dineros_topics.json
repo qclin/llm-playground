@@ -1,0 +1,716 @@
+{
+    "topics": [
+        {
+            "topic": "Migraines",
+            "sequence_range": "1-9",
+            "start_time": 15635,
+            "end_time": 77472
+        },
+        {
+            "topic": "Food and Eating Habits",
+            "sequence_range": "10-18",
+            "start_time": 77772,
+            "end_time": 118773
+        },
+        {
+            "topic": "Money and Economic Concerns",
+            "sequence_range": "19-133",
+            "start_time": 119333,
+            "end_time": 1306421
+        },
+        {
+            "topic": "Personal Messages and Appreciation",
+            "sequence_range": "134-141",
+            "start_time": 1307082,
+            "end_time": 1384999
+        },
+        {
+            "topic": "Acknowledgment of Archivists and Librarians",
+            "sequence_range": "139-144",
+            "start_time": 1332369,
+            "end_time": 1398027
+        },
+        {
+            "topic": "Historical Anecdotes and Alchemy",
+            "sequence_range": "145-189",
+            "start_time": 1398047,
+            "end_time": 1857937
+        },
+        {
+            "topic": "Economic Crisis and Solutions",
+            "sequence_range": "190-242",
+            "start_time": 1858097,
+            "end_time": 2486693
+        },
+        {
+            "topic": "Stock Market and Economic Theories",
+            "sequence_range": "243-261",
+            "start_time": 2486913,
+            "end_time": 2689886
+        },
+        {
+            "topic": "Inflation and Economic Concepts",
+            "sequence_range": "262-273",
+            "start_time": 2690086,
+            "end_time": 2807290
+        },
+        {
+            "topic": "Masculinity and Money",
+            "sequence_range": "274-304",
+            "start_time": 2808819,
+            "end_time": 3176542
+        },
+        {
+            "topic": "Sor Juana Inés de la Cruz and Economic Management",
+            "sequence_range": "305-332",
+            "start_time": 3176562,
+            "end_time": 3432910
+        },
+        {
+            "topic": "Podcast Monetization and Future Episodes",
+            "sequence_range": "333-371",
+            "start_time": 3433411,
+            "end_time": 3706107
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1,
+                3,
+                7,
+                9
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                27,
+                28,
+                29,
+                59,
+                108,
+                120,
+                124,
+                126,
+                128
+            ]
+        },
+        {
+            "entity": "Prosperidad Market",
+            "type": "Place",
+            "sequences": [
+                16
+            ]
+        },
+        {
+            "entity": "National Library",
+            "type": "Organization",
+            "sequences": [
+                19,
+                25
+            ]
+        },
+        {
+            "entity": "National University",
+            "type": "Organization",
+            "sequences": [
+                25
+            ]
+        },
+        {
+            "entity": "Marisol",
+            "type": "Person",
+            "sequences": [
+                25
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                34,
+                120
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                34,
+                73,
+                101
+            ]
+        },
+        {
+            "entity": "Juan de Mariana",
+            "type": "Person",
+            "sequences": [
+                82,
+                84,
+                89
+            ]
+        },
+        {
+            "entity": "Nerea Perez de las Heras",
+            "type": "Person",
+            "sequences": [
+                86
+            ]
+        },
+        {
+            "entity": "Antonio Nuño",
+            "type": "Person",
+            "sequences": [
+                86
+            ]
+        },
+        {
+            "entity": "Lope de Vega",
+            "type": "Person",
+            "sequences": [
+                95
+            ]
+        },
+        {
+            "entity": "Duke of Sesa",
+            "type": "Person",
+            "sequences": [
+                93
+            ]
+        },
+        {
+            "entity": "Sister Marcela de San Feliz",
+            "type": "Person",
+            "sequences": [
+                95
+            ]
+        },
+        {
+            "entity": "Quevedo",
+            "type": "Person",
+            "sequences": [
+                100,
+                101
+            ]
+        },
+        {
+            "entity": "Zapatero",
+            "type": "Person",
+            "sequences": [
+                108,
+                110
+            ]
+        },
+        {
+            "entity": "Pino",
+            "type": "Person",
+            "sequences": [
+                129,
+                132
+            ]
+        },
+        {
+            "entity": "Conchi",
+            "type": "Person",
+            "sequences": [
+                129,
+                132
+            ]
+        },
+        {
+            "entity": "Conchi",
+            "type": "Person",
+            "sequences": [
+                134,
+                135
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                137
+            ]
+        },
+        {
+            "entity": "Archivists",
+            "type": "Profession",
+            "sequences": [
+                139,
+                143,
+                144
+            ]
+        },
+        {
+            "entity": "Librarians",
+            "type": "Profession",
+            "sequences": [
+                139
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Historical Figure",
+            "sequences": [
+                145,
+                147,
+                149,
+                151,
+                153,
+                155,
+                157,
+                159,
+                161,
+                163,
+                165,
+                167,
+                169,
+                171,
+                173,
+                175,
+                177,
+                179,
+                181,
+                183,
+                185,
+                187,
+                189
+            ]
+        },
+        {
+            "entity": "Francisco Rodríguez Marín",
+            "type": "Historian",
+            "sequences": [
+                147
+            ]
+        },
+        {
+            "entity": "Royal Academy of History",
+            "type": "Organization",
+            "sequences": [
+                147
+            ]
+        },
+        {
+            "entity": "Pedro de Loyo",
+            "type": "Historical Figure",
+            "sequences": [
+                149,
+                150,
+                153,
+                158,
+                160,
+                162,
+                171,
+                172,
+                174,
+                176,
+                178,
+                180,
+                182,
+                184,
+                189
+            ]
+        },
+        {
+            "entity": "Escorial",
+            "type": "Place",
+            "sequences": [
+                151
+            ]
+        },
+        {
+            "entity": "Charles V",
+            "type": "Historical Figure",
+            "sequences": [
+                193,
+                194,
+                195,
+                197,
+                199,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206
+            ]
+        },
+        {
+            "entity": "Paul Krugman",
+            "type": "Economist",
+            "sequences": [
+                216,
+                217
+            ]
+        },
+        {
+            "entity": "Agustín Deza",
+            "type": "Person",
+            "sequences": [
+                233
+            ]
+        },
+        {
+            "entity": "González C. Llorigo",
+            "type": "Person",
+            "sequences": [
+                235
+            ]
+        },
+        {
+            "entity": "Joseph Perez",
+            "type": "Person",
+            "sequences": [
+                243
+            ]
+        },
+        {
+            "entity": "Amsterdam",
+            "type": "Place",
+            "sequences": [
+                243
+            ]
+        },
+        {
+            "entity": "School of Salamanca",
+            "type": "Organization",
+            "sequences": [
+                253
+            ]
+        },
+        {
+            "entity": "New World",
+            "type": "Place",
+            "sequences": [
+                253
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371
+            ]
+        },
+        {
+            "entity": "France",
+            "type": "Country",
+            "sequences": [
+                261
+            ]
+        },
+        {
+            "entity": "Spain",
+            "type": "Country",
+            "sequences": [
+                261
+            ]
+        },
+        {
+            "entity": "Elvira Vilches",
+            "type": "Person",
+            "sequences": [
+                273
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                275
+            ]
+        },
+        {
+            "entity": "Stella Ortiz",
+            "type": "Person",
+            "sequences": [
+                297,
+                298
+            ]
+        },
+        {
+            "entity": "Killjoy",
+            "type": "Organization",
+            "sequences": [
+                298,
+                300
+            ]
+        },
+        {
+            "entity": "Esther Bartiz",
+            "type": "Person",
+            "sequences": [
+                301
+            ]
+        },
+        {
+            "entity": "Jartex",
+            "type": "Person",
+            "sequences": [
+                301
+            ]
+        },
+        {
+            "entity": "Wall Street Wolverine",
+            "type": "Person",
+            "sequences": [
+                301
+            ]
+        },
+        {
+            "entity": "Sor Juana Inés de la Cruz",
+            "type": "Person",
+            "sequences": [
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371
+            ]
+        },
+        {
+            "entity": "Álvaro Enríguez",
+            "type": "Person",
+            "sequences": [
+                312
+            ]
+        },
+        {
+            "entity": "Góngora",
+            "type": "Person",
+            "sequences": [
+                338,
+                339
+            ]
+        },
+        {
+            "entity": "Pódimo",
+            "type": "Organization",
+            "sequences": [
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371
+            ]
+        },
+        {
+            "entity": "Elisabeth Duval",
+            "type": "Person",
+            "sequences": [
+                366
+            ]
+        },
+        {
+            "entity": "Gente de 2020",
+            "type": "Organization",
+            "sequences": [
+                367
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Fable of the Court",
+            "sequence": 81
+        }
+    ]
+}

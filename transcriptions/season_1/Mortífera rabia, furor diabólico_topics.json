@@ -1,0 +1,540 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction and Casual Conversation",
+            "sequence_range": "1-9",
+            "start_time": 16106,
+            "end_time": 34069
+        },
+        {
+            "topic": "Food and Eating Habits",
+            "sequence_range": "10-16",
+            "start_time": 34449,
+            "end_time": 70708
+        },
+        {
+            "topic": "Historical and Literary Discussion on María de Zayas",
+            "sequence_range": "17-80",
+            "start_time": 71068,
+            "end_time": 1565471
+        },
+        {
+            "topic": "Story of Aminta",
+            "sequence_range": "81-95",
+            "start_time": 1565811,
+            "end_time": 1815980
+        },
+        {
+            "topic": "Literary Analysis and Commentary",
+            "sequence_range": "96-161",
+            "start_time": 1816120,
+            "end_time": 3164571
+        },
+        {
+            "topic": "Film Aesthetics and Themes",
+            "sequence_range": "162-165",
+            "start_time": 3165051,
+            "end_time": 3216013
+        },
+        {
+            "topic": "Literary Connections and Inspirations",
+            "sequence_range": "166-178",
+            "start_time": 3216093,
+            "end_time": 3334154
+        },
+        {
+            "topic": "Analysis of Promising Young Woman",
+            "sequence_range": "169-197",
+            "start_time": 3222198,
+            "end_time": 3631850
+        },
+        {
+            "topic": "Reflections on Gender and Violence",
+            "sequence_range": "182-198",
+            "start_time": 3352469,
+            "end_time": 3656127
+        },
+        {
+            "topic": "Future Projects and Personal Plans",
+            "sequence_range": "199-206",
+            "start_time": 3656281,
+            "end_time": 3715368
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                8,
+                27,
+                28,
+                41,
+                57
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                2,
+                5,
+                19,
+                26,
+                36,
+                38,
+                50,
+                47,
+                66,
+                74
+            ]
+        },
+        {
+            "entity": "Philip's daughters",
+            "type": "Group",
+            "sequences": [
+                8,
+                9,
+                19,
+                46,
+                53
+            ]
+        },
+        {
+            "entity": "Felipe's daughters",
+            "type": "Group",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Las Tesis",
+            "type": "Organization",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "Rita Segato",
+            "type": "Person",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "Alejandra Pizarnik",
+            "type": "Person",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "Guerrilla Girls",
+            "type": "Organization",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "Paula Cometa",
+            "type": "Person",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "María de Zayas y Sotomayor",
+            "type": "Person",
+            "sequences": [
+                25,
+                26,
+                43,
+                50,
+                53,
+                55,
+                57,
+                58,
+                60,
+                66,
+                73
+            ]
+        },
+        {
+            "entity": "Autonomous University of Barcelona",
+            "type": "Organization",
+            "sequences": [
+                26
+            ]
+        },
+        {
+            "entity": "Alonso de Castillo Solórzano",
+            "type": "Person",
+            "sequences": [
+                26
+            ]
+        },
+        {
+            "entity": "Mario",
+            "type": "Person",
+            "sequences": [
+                18
+            ]
+        },
+        {
+            "entity": "Embajadores street",
+            "type": "Location",
+            "sequences": [
+                18
+            ]
+        },
+        {
+            "entity": "Maria",
+            "type": "Person",
+            "sequences": [
+                19,
+                20
+            ]
+        },
+        {
+            "entity": "Francek Fontanella",
+            "type": "Person",
+            "sequences": [
+                31,
+                33,
+                35
+            ]
+        },
+        {
+            "entity": "Francesc Fontanella",
+            "type": "Person",
+            "sequences": [
+                33,
+                35
+            ]
+        },
+        {
+            "entity": "St. Thomas Aquinas Literary Academy",
+            "type": "Organization",
+            "sequences": [
+                31
+            ]
+        },
+        {
+            "entity": "Barcelona",
+            "type": "Location",
+            "sequences": [
+                29,
+                30,
+                31,
+                42,
+                43,
+                53
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Góngora",
+            "type": "Person",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Agustín Gómez de Amezúa",
+            "type": "Person",
+            "sequences": [
+                50
+            ]
+        },
+        {
+            "entity": "Juan Francisco Genovés",
+            "type": "Person",
+            "sequences": [
+                66
+            ]
+        },
+        {
+            "entity": "Minta",
+            "type": "Character",
+            "sequences": [
+                81,
+                87,
+                88,
+                89,
+                90,
+                91,
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "entity": "Jacinto",
+            "type": "Character",
+            "sequences": [
+                81,
+                84,
+                85,
+                89,
+                93,
+                94,
+                95
+            ]
+        },
+        {
+            "entity": "Flora",
+            "type": "Character",
+            "sequences": [
+                81,
+                94,
+                95
+            ]
+        },
+        {
+            "entity": "María de Zayas",
+            "type": "Author",
+            "sequences": [
+                82,
+                85,
+                89,
+                95,
+                108,
+                109,
+                115,
+                121,
+                137,
+                138,
+                147,
+                159,
+                160,
+                161
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                82,
+                116,
+                117,
+                118,
+                137,
+                159
+            ]
+        },
+        {
+            "entity": "University of Barcelona",
+            "type": "Organization",
+            "sequences": [
+                107
+            ]
+        },
+        {
+            "entity": "Princess of Eboli",
+            "type": "Historical Figure",
+            "sequences": [
+                125,
+                128,
+                138
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Historical Figure",
+            "sequences": [
+                129,
+                130
+            ]
+        },
+        {
+            "entity": "Mari Ochoa de Algaza",
+            "type": "Historical Figure",
+            "sequences": [
+                140
+            ]
+        },
+        {
+            "entity": "Juan Ochoa de Zoazo",
+            "type": "Historical Figure",
+            "sequences": [
+                140
+            ]
+        },
+        {
+            "entity": "Emerald Fennell",
+            "type": "Person",
+            "sequences": [
+                141
+            ]
+        },
+        {
+            "entity": "Britney Spears",
+            "type": "Person",
+            "sequences": [
+                143,
+                144,
+                145
+            ]
+        },
+        {
+            "entity": "Karen Mulligan",
+            "type": "Character",
+            "sequences": [
+                159
+            ]
+        },
+        {
+            "entity": "Lysis",
+            "type": "Character",
+            "sequences": [
+                161
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                153,
+                154,
+                155,
+                156,
+                157
+            ]
+        },
+        {
+            "entity": "Barcelona",
+            "type": "Place",
+            "sequences": [
+                154
+            ]
+        },
+        {
+            "entity": "New York Times",
+            "type": "Organization",
+            "sequences": [
+                162
+            ]
+        },
+        {
+            "entity": "Paris Hilton",
+            "type": "Person",
+            "sequences": [
+                171
+            ]
+        },
+        {
+            "entity": "Zayas",
+            "type": "Person",
+            "sequences": [
+                166,
+                171,
+                174,
+                178,
+                182,
+                183,
+                185,
+                187,
+                193,
+                195,
+                197,
+                198
+            ]
+        },
+        {
+            "entity": "Car",
+            "type": "Person",
+            "sequences": [
+                169
+            ]
+        },
+        {
+            "entity": "Mulligan",
+            "type": "Person",
+            "sequences": [
+                169,
+                193
+            ]
+        },
+        {
+            "entity": "Cassandra",
+            "type": "Person",
+            "sequences": [
+                169,
+                170,
+                171
+            ]
+        },
+        {
+            "entity": "Emerald Fennell",
+            "type": "Person",
+            "sequences": [
+                172,
+                173
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                178,
+                188
+            ]
+        },
+        {
+            "entity": "Lysis",
+            "type": "Person",
+            "sequences": [
+                191
+            ]
+        },
+        {
+            "entity": "Cavendish",
+            "type": "Person",
+            "sequences": [
+                199,
+                200
+            ]
+        },
+        {
+            "entity": "Philip's daughters",
+            "type": "Person",
+            "sequences": [
+                201
+            ]
+        },
+        {
+            "entity": "Providence, Rhode Island",
+            "type": "Place",
+            "sequences": [
+                202
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                202
+            ]
+        },
+        {
+            "entity": "Renoir cinemas",
+            "type": "Organization",
+            "sequences": [
+                197
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Feminist Anthology by Las Tesis",
+            "sequence": 23
+        }
+    ]
+}

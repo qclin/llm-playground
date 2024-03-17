@@ -1,0 +1,398 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction and Personal Reunion",
+            "sequence_range": "1-6",
+            "start_time": 15553,
+            "end_time": 43403
+        },
+        {
+            "topic": "Daily Activities and Eating Habits",
+            "sequence_range": "7-11",
+            "start_time": 44123,
+            "end_time": 75980
+        },
+        {
+            "topic": "Exercise and Physical Training",
+            "sequence_range": "12-19",
+            "start_time": 76841,
+            "end_time": 140272
+        },
+        {
+            "topic": "Mental and Emotional Stability through Exercise",
+            "sequence_range": "20-30",
+            "start_time": 140552,
+            "end_time": 252272
+        },
+        {
+            "topic": "Historical Perspective on Exercise",
+            "sequence_range": "31-59",
+            "start_time": 252872,
+            "end_time": 1010454
+        },
+        {
+            "topic": "Renaissance Medicine and the Theory of Humors",
+            "sequence_range": "60-70",
+            "start_time": 1010474,
+            "end_time": 1376714
+        },
+        {
+            "topic": "Exercise Recommendations for Women in History",
+            "sequence_range": "71-77",
+            "start_time": 1376734,
+            "end_time": 1470259
+        },
+        {
+            "topic": "Historical anecdotes and societal norms",
+            "sequence_range": "78-81",
+            "start_time": 1470299,
+            "end_time": 1519687
+        },
+        {
+            "topic": "Idleness and leisure",
+            "sequence_range": "82-84",
+            "start_time": 1519708,
+            "end_time": 1724066
+        },
+        {
+            "topic": "Physical exercise and women in history",
+            "sequence_range": "86-117",
+            "start_time": 1745390,
+            "end_time": 2757838
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                2,
+                44,
+                45,
+                62
+            ]
+        },
+        {
+            "entity": "gluten-free beers",
+            "type": "Food",
+            "sequences": [
+                4
+            ]
+        },
+        {
+            "entity": "celiac disease",
+            "type": "Disease",
+            "sequences": [
+                4
+            ]
+        },
+        {
+            "entity": "English Channel",
+            "type": "Geographical Feature",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Isa",
+            "type": "Person",
+            "sequences": [
+                10
+            ]
+        },
+        {
+            "entity": "Mexican restaurant",
+            "type": "Place",
+            "sequences": [
+                10
+            ]
+        },
+        {
+            "entity": "cochinita pibil tacos",
+            "type": "Food",
+            "sequences": [
+                10
+            ]
+        },
+        {
+            "entity": "Idaira",
+            "type": "Person",
+            "sequences": [
+                14
+            ]
+        },
+        {
+            "entity": "Arima",
+            "type": "Organization",
+            "sequences": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "entity": "Mario",
+            "type": "Person",
+            "sequences": [
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "entity": "Swimland",
+            "type": "Organization",
+            "sequences": [
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "entity": "Providence, Rhode Island",
+            "type": "Place",
+            "sequences": [
+                32,
+                33
+            ]
+        },
+        {
+            "entity": "Cristóbal Méndez",
+            "type": "Person",
+            "sequences": [
+                34,
+                35,
+                42,
+                43,
+                46,
+                47
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "Place",
+            "sequences": [
+                42,
+                46
+            ]
+        },
+        {
+            "entity": "Lepe",
+            "type": "Place",
+            "sequences": [
+                43,
+                46
+            ]
+        },
+        {
+            "entity": "Jaén",
+            "type": "Place",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Linares",
+            "type": "Place",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Mexico",
+            "type": "Country",
+            "sequences": [
+                46,
+                72
+            ]
+        },
+        {
+            "entity": "Iván Sorapán de Rieros",
+            "type": "Person",
+            "sequences": [
+                54
+            ]
+        },
+        {
+            "entity": "Isabella of Portugal",
+            "type": "Person",
+            "sequences": [
+                72
+            ]
+        },
+        {
+            "entity": "Charles V",
+            "type": "Person",
+            "sequences": [
+                72
+            ]
+        },
+        {
+            "entity": "Margaret of Austria",
+            "type": "Person",
+            "sequences": [
+                75
+            ]
+        },
+        {
+            "entity": "Cristobal Mendez",
+            "type": "Person",
+            "sequences": [
+                78,
+                87,
+                89,
+                107
+            ]
+        },
+        {
+            "entity": "Mexico",
+            "type": "Place",
+            "sequences": [
+                78
+            ]
+        },
+        {
+            "entity": "Isabella of Portugal",
+            "type": "Person",
+            "sequences": [
+                78,
+                79,
+                81
+            ]
+        },
+        {
+            "entity": "Charles V",
+            "type": "Person",
+            "sequences": [
+                78
+            ]
+        },
+        {
+            "entity": "New Spain",
+            "type": "Place",
+            "sequences": [
+                78,
+                83,
+                93
+            ]
+        },
+        {
+            "entity": "Superbar",
+            "type": "Organization",
+            "sequences": [
+                83
+            ]
+        },
+        {
+            "entity": "Convent of Santa Paula",
+            "type": "Place",
+            "sequences": [
+                93,
+                94
+            ]
+        },
+        {
+            "entity": "Sor Juana",
+            "type": "Person",
+            "sequences": [
+                94
+            ]
+        },
+        {
+            "entity": "Bernardino Ramazzini",
+            "type": "Person",
+            "sequences": [
+                95,
+                97
+            ]
+        },
+        {
+            "entity": "De Morbis Artificum",
+            "type": "Literature",
+            "sequences": [
+                97
+            ]
+        },
+        {
+            "entity": "Pennsylvania",
+            "type": "Place",
+            "sequences": [
+                99
+            ]
+        },
+        {
+            "entity": "Luisa de Robles",
+            "type": "Person",
+            "sequences": [
+                106,
+                107,
+                108,
+                110,
+                111,
+                112
+            ]
+        },
+        {
+            "entity": "Pérez de Montalbán",
+            "type": "Person",
+            "sequences": [
+                106
+            ]
+        },
+        {
+            "entity": "Catalina de Erauso",
+            "type": "Person",
+            "sequences": [
+                106
+            ]
+        },
+        {
+            "entity": "Pacheco de Narváez",
+            "type": "Person",
+            "sequences": [
+                106
+            ]
+        },
+        {
+            "entity": "Libro de las Grandezas de la Espada",
+            "type": "Literature",
+            "sequences": [
+                106
+            ]
+        },
+        {
+            "entity": "Ruid y Alarcón",
+            "type": "Person",
+            "sequences": [
+                108
+            ]
+        },
+        {
+            "entity": "Manuel Vallejo",
+            "type": "Person",
+            "sequences": [
+                108
+            ]
+        },
+        {
+            "entity": "Góngora",
+            "type": "Person",
+            "sequences": [
+                108
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "El libro del ejercicio corporal y de sus provechos por el cual cada uno podrá entender qué ejercicio le sea necesario para conservar la salud by Cristobal Mendez, published in 1553 in Seville",
+            "sequence": 42
+        }
+    ]
+}

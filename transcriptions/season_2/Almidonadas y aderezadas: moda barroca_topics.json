@@ -1,0 +1,545 @@
+{
+    "topics": [
+        {
+            "topic": "Personal anecdotes and daily life",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "COVID-19 experiences",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "Management and cooking",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "SpyCrisis course and online classes",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "Event at Casa Encendida",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "Fashion and dressing habits",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "Baroque fashion and sumptuary laws",
+            "sequence_range": "1",
+            "start_time": 21001,
+            "end_time": 2368622
+        },
+        {
+            "topic": "Fashion and Social Commentary",
+            "sequence_range": "2-4",
+            "start_time": 2368642,
+            "end_time": 2740908
+        },
+        {
+            "topic": "Fashion and Tyranny",
+            "sequence_range": "5",
+            "start_time": 2765573,
+            "end_time": 3928344
+        },
+        {
+            "topic": "Physical Obsessions and Fitness",
+            "sequence_range": "5",
+            "start_time": 2765573,
+            "end_time": 3928344
+        },
+        {
+            "topic": "Historical Perspectives on Body Image",
+            "sequence_range": "5",
+            "start_time": 2765573,
+            "end_time": 3928344
+        },
+        {
+            "topic": "The Tapadas Phenomenon",
+            "sequence_range": "5-6",
+            "start_time": 2765573,
+            "end_time": 4154350
+        },
+        {
+            "topic": "Urban Phenomena and Social Control",
+            "sequence_range": "6",
+            "start_time": 3931820,
+            "end_time": 4154350
+        },
+        {
+            "topic": "Personalities and Fashion",
+            "sequence_range": "7-9",
+            "start_time": 4157707,
+            "end_time": 4415199
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Eduardo",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Isabella of Valois",
+            "type": "Historical Figure",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Juana",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Elena",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "SpyCrisis",
+            "type": "Event/Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Casa Encendida",
+            "type": "Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "David Macho",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Father Damián",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Margarita de la Cruz",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Andrés",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Jesús",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Laura Cepeda",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Calderón de la Barca",
+            "type": "Historical Figure",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Juan de Alcega",
+            "type": "Historical Figure",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Georgina",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Juan Ruiz de Alarcón",
+            "type": "Historical Figure",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Don García",
+            "type": "Fictional Character",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Tristan",
+            "type": "Fictional Character",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Dutch",
+            "type": "Nationality",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Spain",
+            "type": "Country",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Netflix",
+            "type": "Organization",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Ash Wednesday",
+            "type": "Event",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Georgina",
+            "type": "Person",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Boy and Girl",
+            "type": "Band",
+            "sequences": [
+                3,
+                4
+            ]
+        },
+        {
+            "entity": "Prince of Wales",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Luis Chavez",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Extremadura",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Corpus Christi tarasca",
+            "type": "Event",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "English court",
+            "type": "Organization",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Carlos III",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "La Palma",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Canary Islands",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Mejer de la Frontera",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Agatha Roy de la Prada",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Cortes of Castile",
+            "type": "Organization",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Medina del Campo",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Lima",
+            "type": "Place",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Laura",
+            "type": "Person",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Amanda Bunder",
+            "type": "Person",
+            "sequences": [
+                6
+            ]
+        },
+        {
+            "entity": "Felipe's daughters",
+            "type": "Person",
+            "sequences": [
+                6
+            ]
+        },
+        {
+            "entity": "Laura Bass",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Providence",
+            "type": "Place",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "New York",
+            "type": "Place",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Casa Encendida",
+            "type": "Place",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Lourdes Vergada",
+            "type": "Person",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Tiana",
+            "type": "Person",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Conde de Xiquena",
+            "type": "Place",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Georgina",
+            "type": "Brand",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Louis Vuitton",
+            "type": "Brand",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Innisfree",
+            "type": "Brand",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Decathlon",
+            "type": "Brand",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Catlon",
+            "type": "Brand",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Inditex",
+            "type": "Brand",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                8
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "De superflua, groseza y gordura en la gente by Luis Chavez",
+            "sequence": 5
+        }
+    ]
+}

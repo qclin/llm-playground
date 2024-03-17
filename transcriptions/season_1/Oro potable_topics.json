@@ -1,0 +1,447 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction to Philip's Daughters",
+            "sequence_range": "1-2",
+            "start_time": 16276,
+            "end_time": 35710
+        },
+        {
+            "topic": "Origin of the Program Name and Mentoring",
+            "sequence_range": "3-8",
+            "start_time": 36913,
+            "end_time": 100653
+        },
+        {
+            "topic": "Favorite Daughters of Philip and Personal Anecdotes",
+            "sequence_range": "9-20",
+            "start_time": 101033,
+            "end_time": 298327
+        },
+        {
+            "topic": "Alchemy, Potable Gold, and Historical Context",
+            "sequence_range": "21-51",
+            "start_time": 299308,
+            "end_time": 1617385
+        },
+        {
+            "topic": "Quintilio's Marketing and Imposture in Madrid",
+            "sequence_range": "52-70",
+            "start_time": 1617921,
+            "end_time": 2119621
+        },
+        {
+            "topic": "Potential for Similar Ventures in Modern Times",
+            "sequence_range": "71-72",
+            "start_time": 2120762,
+            "end_time": 2195118
+        },
+        {
+            "topic": "Gold in Beauty and Aesthetics Industry",
+            "sequence_range": "73-98",
+            "start_time": 2196199,
+            "end_time": 2448403
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                1,
+                7,
+                8,
+                29,
+                30,
+                31,
+                32,
+                37,
+                38,
+                39,
+                40,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                2,
+                8,
+                10,
+                27,
+                28,
+                29,
+                32,
+                37,
+                38,
+                46,
+                50,
+                51
+            ]
+        },
+        {
+            "entity": "Juan de Pantoja",
+            "type": "Person",
+            "sequences": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "entity": "Isabel Clara Eugenia",
+            "type": "Person",
+            "sequences": [
+                10,
+                11,
+                13,
+                15,
+                17
+            ]
+        },
+        {
+            "entity": "Catalina Micaela",
+            "type": "Person",
+            "sequences": [
+                13,
+                14,
+                15,
+                17,
+                19
+            ]
+        },
+        {
+            "entity": "Duke of Savoy",
+            "type": "Person",
+            "sequences": [
+                15
+            ]
+        },
+        {
+            "entity": "Lucia",
+            "type": "Person",
+            "sequences": [
+                20
+            ]
+        },
+        {
+            "entity": "Caliza",
+            "type": "Person",
+            "sequences": [
+                24
+            ]
+        },
+        {
+            "entity": "María Izquierdo",
+            "type": "Person",
+            "sequences": [
+                24
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                29,
+                30,
+                31,
+                32,
+                37,
+                38
+            ]
+        },
+        {
+            "entity": "Pedro de Loyo",
+            "type": "Person",
+            "sequences": [
+                32,
+                37
+            ]
+        },
+        {
+            "entity": "Juan Cornejo",
+            "type": "Person",
+            "sequences": [
+                38
+            ]
+        },
+        {
+            "entity": "José de Sigüenza",
+            "type": "Person",
+            "sequences": [
+                39,
+                40,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "entity": "Alexandro Quintilio",
+            "type": "Person",
+            "sequences": [
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "entity": "Luis Sanchez",
+            "type": "Organization",
+            "sequences": [
+                46
+            ]
+        },
+        {
+            "entity": "Royal Proto-Medicato",
+            "type": "Organization",
+            "sequences": [
+                50
+            ]
+        },
+        {
+            "entity": "Bernard Palissy",
+            "type": "Person",
+            "sequences": [
+                51
+            ]
+        },
+        {
+            "entity": "Canary Islands",
+            "type": "Place",
+            "sequences": [
+                20
+            ]
+        },
+        {
+            "entity": "Zaragoza",
+            "type": "Place",
+            "sequences": [
+                15
+            ]
+        },
+        {
+            "entity": "Barcelona",
+            "type": "Place",
+            "sequences": [
+                15
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                24,
+                44
+            ]
+        },
+        {
+            "entity": "Girona",
+            "type": "Place",
+            "sequences": [
+                39
+            ]
+        },
+        {
+            "entity": "Escorial",
+            "type": "Place",
+            "sequences": [
+                29,
+                38,
+                39,
+                40,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51
+            ]
+        },
+        {
+            "entity": "Quintilio",
+            "type": "Person",
+            "sequences": [
+                52,
+                56,
+                58,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                52,
+                72
+            ]
+        },
+        {
+            "entity": "Italy",
+            "type": "Place",
+            "sequences": [
+                52,
+                66
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                52,
+                58,
+                62
+            ]
+        },
+        {
+            "entity": "Maria Martinez",
+            "type": "Person",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Francisco Gomez",
+            "type": "Person",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Paracelsus",
+            "type": "Person",
+            "sequences": [
+                58
+            ]
+        },
+        {
+            "entity": "Vittorio Algarotti",
+            "type": "Person",
+            "sequences": [
+                66
+            ]
+        },
+        {
+            "entity": "José Enrique Ferreira",
+            "type": "Person",
+            "sequences": [
+                70
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                75,
+                76
+            ]
+        },
+        {
+            "entity": "Emilio",
+            "type": "Person",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Isabel Clara Eugenio",
+            "type": "Person",
+            "sequences": [
+                93
+            ]
+        },
+        {
+            "entity": "Daniela Micaela",
+            "type": "Person",
+            "sequences": [
+                94
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                97
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                97
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Relation and memory of the wonderful effects and remarkable benefits that have made and make the white powder solutions of the quintessence of gold",
+            "sequence": 46
+        }
+    ]
+}

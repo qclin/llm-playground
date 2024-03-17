@@ -32,5 +32,5 @@ def translate_text(text, source_language='es', target_language='en'):
 
 def translate_with_deepl(text, source_lang='ES', target_lang="EN-US"): 
     result = translator.translate_text(text, source_lang=source_lang, target_lang=target_lang)
-    print(result.text)
+    # print(result.text)
     return result.text

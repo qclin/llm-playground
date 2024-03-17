@@ -1,0 +1,471 @@
+{
+    "topics": [
+        {
+            "topic": "Greetings and Personal Updates",
+            "sequence_range": "1-5",
+            "start_time": 15938,
+            "end_time": 22080
+        },
+        {
+            "topic": "Food and Meals",
+            "sequence_range": "6-21",
+            "start_time": 22100,
+            "end_time": 98316
+        },
+        {
+            "topic": "Return to Origins and Self-Exploration",
+            "sequence_range": "37-41",
+            "start_time": 142240,
+            "end_time": 178696
+        },
+        {
+            "topic": "Gossip and Public Opinion in History",
+            "sequence_range": "42-43",
+            "start_time": 178956,
+            "end_time": 272635
+        },
+        {
+            "topic": "Influence of Magazines and Personal Stories",
+            "sequence_range": "44-58",
+            "start_time": 273376,
+            "end_time": 467672
+        },
+        {
+            "topic": "Historical Gossip and Scandals",
+            "sequence_range": "59-78",
+            "start_time": 468632,
+            "end_time": 820975
+        },
+        {
+            "topic": "Modern and Historical Mentideros",
+            "sequence_range": "86-93",
+            "start_time": 837999,
+            "end_time": 881453
+        },
+        {
+            "topic": "Monetary Alterations and Economic History",
+            "sequence_range": "99-103",
+            "start_time": 999320,
+            "end_time": 1222435
+        },
+        {
+            "topic": "Freedom of Expression and Criticism",
+            "sequence_range": "104-108",
+            "start_time": 1222455,
+            "end_time": 1298862
+        },
+        {
+            "topic": "Lope de Vega's Financial and Personal Struggles",
+            "sequence_range": "111-115",
+            "start_time": 1304120,
+            "end_time": 1440836
+        },
+        {
+            "topic": "Recording Locations and Acoustic Choices",
+            "sequence_range": "114-114",
+            "start_time": 1398391,
+            "end_time": 1410778
+        },
+        {
+            "topic": "Literary Quarrels and Gossip in Madrid",
+            "sequence_range": "116-123",
+            "start_time": 1440956,
+            "end_time": 1653434
+        },
+        {
+            "topic": "The Role of Gossip and Defamation",
+            "sequence_range": "116-127",
+            "start_time": 1440956,
+            "end_time": 1665941
+        },
+        {
+            "topic": "Political Significance of Rumors and Moralistic Discourse",
+            "sequence_range": "129-135",
+            "start_time": 1675993,
+            "end_time": 2007381
+        },
+        {
+            "topic": "Female Gossip and Political Criticism in Historical Context",
+            "sequence_range": "136-158",
+            "start_time": 2008643,
+            "end_time": 2362147
+        },
+        {
+            "topic": "Baroque Gossip and Its Modern Relevance",
+            "sequence_range": "159-162",
+            "start_time": 2363768,
+            "end_time": 2424955
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1,
+                8,
+                12,
+                13,
+                21,
+                42,
+                67,
+                81,
+                82,
+                99
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                2,
+                4,
+                8,
+                10,
+                12,
+                13,
+                44,
+                45,
+                51,
+                53,
+                55,
+                86,
+                102,
+                103,
+                105
+            ]
+        },
+        {
+            "entity": "Philip",
+            "type": "Person",
+            "sequences": [
+                6,
+                35
+            ]
+        },
+        {
+            "entity": "Muñécar",
+            "type": "Place",
+            "sequences": [
+                15
+            ]
+        },
+        {
+            "entity": "Granada",
+            "type": "Place",
+            "sequences": [
+                15
+            ]
+        },
+        {
+            "entity": "Providence, Rhode Island",
+            "type": "Place",
+            "sequences": [
+                35,
+                61
+            ]
+        },
+        {
+            "entity": "Diego Saavedra Fajardo",
+            "type": "Person",
+            "sequences": [
+                42
+            ]
+        },
+        {
+            "entity": "Lucia",
+            "type": "Person",
+            "sequences": [
+                45
+            ]
+        },
+        {
+            "entity": "Titihuana",
+            "type": "Person",
+            "sequences": [
+                45,
+                46,
+                47
+            ]
+        },
+        {
+            "entity": "Lady Di",
+            "type": "Person",
+            "sequences": [
+                51
+            ]
+        },
+        {
+            "entity": "Carlota Casiragui",
+            "type": "Person",
+            "sequences": [
+                51
+            ]
+        },
+        {
+            "entity": "Mari Loli",
+            "type": "Person",
+            "sequences": [
+                56,
+                57,
+                58,
+                59
+            ]
+        },
+        {
+            "entity": "Jerónimo de Sepúlveda",
+            "type": "Person",
+            "sequences": [
+                61,
+                62,
+                63,
+                64
+            ]
+        },
+        {
+            "entity": "Antonio Pérez",
+            "type": "Person",
+            "sequences": [
+                70
+            ]
+        },
+        {
+            "entity": "Princess of Eboli",
+            "type": "Person",
+            "sequences": [
+                70
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                70
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                99
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                99,
+                103
+            ]
+        },
+        {
+            "entity": "Juan de Mariana",
+            "type": "Person",
+            "sequences": [
+                103,
+                104,
+                105,
+                106,
+                107
+            ]
+        },
+        {
+            "entity": "Robert Hooke",
+            "type": "Person",
+            "sequences": [
+                102
+            ]
+        },
+        {
+            "entity": "Lope de Vega",
+            "type": "Person",
+            "sequences": [
+                111,
+                113,
+                115,
+                117,
+                118,
+                119,
+                120,
+                123,
+                124
+            ]
+        },
+        {
+            "entity": "Marcela",
+            "type": "Person",
+            "sequences": [
+                111
+            ]
+        },
+        {
+            "entity": "Trinitarian nuns",
+            "type": "Organization",
+            "sequences": [
+                111
+            ]
+        },
+        {
+            "entity": "Elena Osorio",
+            "type": "Person",
+            "sequences": [
+                113
+            ]
+        },
+        {
+            "entity": "Jerónimo de Velázquez",
+            "type": "Person",
+            "sequences": [
+                113
+            ]
+        },
+        {
+            "entity": "Rhode Island",
+            "type": "Place",
+            "sequences": [
+                114,
+                122
+            ]
+        },
+        {
+            "entity": "Góngora",
+            "type": "Person",
+            "sequences": [
+                123
+            ]
+        },
+        {
+            "entity": "Cordoba",
+            "type": "Place",
+            "sequences": [
+                123
+            ]
+        },
+        {
+            "entity": "Duke of Alba",
+            "type": "Person",
+            "sequences": [
+                120
+            ]
+        },
+        {
+            "entity": "Alba de Tormes",
+            "type": "Place",
+            "sequences": [
+                120
+            ]
+        },
+        {
+            "entity": "Fray Luis de León",
+            "type": "Person",
+            "sequences": [
+                132
+            ]
+        },
+        {
+            "entity": "France",
+            "type": "Place",
+            "sequences": [
+                136,
+                138,
+                140
+            ]
+        },
+        {
+            "entity": "Brantôme",
+            "type": "Person",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Les dames galantes",
+            "type": "Literature",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Marquesa del Valle",
+            "type": "Person",
+            "sequences": [
+                142,
+                144,
+                149
+            ]
+        },
+        {
+            "entity": "Countess of Castellars",
+            "type": "Person",
+            "sequences": [
+                144,
+                149,
+                150
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                144
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                144
+            ]
+        },
+        {
+            "entity": "Margaret of Austria",
+            "type": "Person",
+            "sequences": [
+                144
+            ]
+        },
+        {
+            "entity": "Maria Jesus de Agreda",
+            "type": "Person",
+            "sequences": [
+                146
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                147,
+                148,
+                149
+            ]
+        },
+        {
+            "entity": "St. John of the Cross",
+            "type": "Person",
+            "sequences": [
+                147
+            ]
+        },
+        {
+            "entity": "Gantón",
+            "type": "Person",
+            "sequences": [
+                161
+            ]
+        },
+        {
+            "entity": "Toño Sánchez",
+            "type": "Person",
+            "sequences": [
+                161
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Idea of a Christian Political Prince written by Diego Saavedra Fajardo",
+            "sequence": 42
+        }
+    ]
+}

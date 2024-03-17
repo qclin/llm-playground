@@ -1,0 +1,1481 @@
+{
+    "topics": [
+        {
+            "topic": "Greetings and Personal Interactions",
+            "sequence_range": "1-6",
+            "start_time": 15112,
+            "end_time": 32000
+        },
+        {
+            "topic": "Location and Setting",
+            "sequence_range": "7-8",
+            "start_time": 32021,
+            "end_time": 37684
+        },
+        {
+            "topic": "Daily Activities and Food",
+            "sequence_range": "9-23",
+            "start_time": 37964,
+            "end_time": 114743
+        },
+        {
+            "topic": "Social Media and Entertainment",
+            "sequence_range": "24-38",
+            "start_time": 114803,
+            "end_time": 236487
+        },
+        {
+            "topic": "Relics, Superstition, and Personal Beliefs",
+            "sequence_range": "39-158",
+            "start_time": 237218,
+            "end_time": 1430175
+        },
+        {
+            "topic": "Historical Letters and Conflicts",
+            "sequence_range": "159-163",
+            "start_time": 1430575,
+            "end_time": 1524412
+        },
+        {
+            "topic": "The Body and Relics of St. Teresa",
+            "sequence_range": "167-324",
+            "start_time": 1534898,
+            "end_time": 2771257
+        },
+        {
+            "topic": "Music and Songs",
+            "sequence_range": "325-326, 348-355",
+            "start_time": 2773690,
+            "end_time": 3119382
+        },
+        {
+            "topic": "Sensitive Time and St. Teresa",
+            "sequence_range": "327-336",
+            "start_time": 2783559,
+            "end_time": 2821283
+        },
+        {
+            "topic": "Religious Experience and Portraits",
+            "sequence_range": "337-346",
+            "start_time": 2821323,
+            "end_time": 2870264
+        },
+        {
+            "topic": "Santa Teresa and Relics",
+            "sequence_range": "347-365",
+            "start_time": 2871224,
+            "end_time": 3173048
+        },
+        {
+            "topic": "Counter-Reformation and Relics",
+            "sequence_range": "366-398",
+            "start_time": 3173108,
+            "end_time": 3584210
+        },
+        {
+            "topic": "Archaeological Discoveries and Relics",
+            "sequence_range": "399-450",
+            "start_time": 3584410,
+            "end_time": 3966941
+        },
+        {
+            "topic": "Philip II and Relic Collection",
+            "sequence_range": "451-494",
+            "start_time": 3966981,
+            "end_time": 4330065
+        },
+        {
+            "topic": "Description and contemplation of relics",
+            "sequence_range": "495-506",
+            "start_time": 4330906,
+            "end_time": 4528551
+        },
+        {
+            "topic": "Fray José de Sigüenza's prose and approach to relics",
+            "sequence_range": "507-518",
+            "start_time": 4529151,
+            "end_time": 4684930
+        },
+        {
+            "topic": "Transportation and reception of relics",
+            "sequence_range": "519-531",
+            "start_time": 4685350,
+            "end_time": 4839278
+        },
+        {
+            "topic": "Classification and arrangement of the relic collection",
+            "sequence_range": "532-550",
+            "start_time": 4839619,
+            "end_time": 5139558
+        },
+        {
+            "topic": "Philip II's obsession with relics",
+            "sequence_range": "551-565",
+            "start_time": 5139838,
+            "end_time": 5271193
+        },
+        {
+            "topic": "Personal and intimate relationships with relics",
+            "sequence_range": "566-606",
+            "start_time": 5271493,
+            "end_time": 5702471
+        },
+        {
+            "topic": "Historical and Religious Narratives",
+            "sequence_range": "607-738",
+            "start_time": 5702491,
+            "end_time": 7271868
+        },
+        {
+            "topic": "Reflections and Personal Anecdotes",
+            "sequence_range": "739-743",
+            "start_time": 7271889,
+            "end_time": 7290999
+        },
+        {
+            "topic": "Relics and Their Power",
+            "sequence_range": "744-836",
+            "start_time": 7295822,
+            "end_time": 8309795
+        },
+        {
+            "topic": "Modern Relics and Celebrity Culture",
+            "sequence_range": "837-909",
+            "start_time": 8310296,
+            "end_time": 8633279
+        },
+        {
+            "topic": "Discovery of the Baptistery",
+            "sequence_range": "910-916",
+            "start_time": 8636600,
+            "end_time": 8752581
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                2,
+                6,
+                66
+            ]
+        },
+        {
+            "entity": "Rhode Island",
+            "type": "Place",
+            "sequences": [
+                7,
+                8,
+                20
+            ]
+        },
+        {
+            "entity": "Whatsapp",
+            "type": "Organization",
+            "sequences": [
+                24
+            ]
+        },
+        {
+            "entity": "Facebook",
+            "type": "Organization",
+            "sequences": [
+                24
+            ]
+        },
+        {
+            "entity": "Instagram",
+            "type": "Organization",
+            "sequences": [
+                24
+            ]
+        },
+        {
+            "entity": "Benedetta",
+            "type": "Event/Movie",
+            "sequences": [
+                25,
+                26,
+                30,
+                32
+            ]
+        },
+        {
+            "entity": "Elena",
+            "type": "Person",
+            "sequences": [
+                29,
+                37
+            ]
+        },
+        {
+            "entity": "United States",
+            "type": "Place",
+            "sequences": [
+                32
+            ]
+        },
+        {
+            "entity": "New York",
+            "type": "Place",
+            "sequences": [
+                32
+            ]
+        },
+        {
+            "entity": "Caroline Walker Bynum",
+            "type": "Person",
+            "sequences": [
+                93,
+                94
+            ]
+        },
+        {
+            "entity": "Joan the Mad",
+            "type": "Person",
+            "sequences": [
+                93
+            ]
+        },
+        {
+            "entity": "Calvin",
+            "type": "Person",
+            "sequences": [
+                101
+            ]
+        },
+        {
+            "entity": "Erasmus",
+            "type": "Person",
+            "sequences": [
+                102
+            ]
+        },
+        {
+            "entity": "José Ángel Valente",
+            "type": "Person",
+            "sequences": [
+                105,
+                107
+            ]
+        },
+        {
+            "entity": "St. John of the Cross",
+            "type": "Person",
+            "sequences": [
+                107,
+                108,
+                109,
+                111
+            ]
+        },
+        {
+            "entity": "Francisco de Yepes",
+            "type": "Person",
+            "sequences": [
+                112,
+                113
+            ]
+        },
+        {
+            "entity": "Britney",
+            "type": "Person",
+            "sequences": [
+                115
+            ]
+        },
+        {
+            "entity": "Take That",
+            "type": "Band",
+            "sequences": [
+                117
+            ]
+        },
+        {
+            "entity": "St. Teresa",
+            "type": "Person",
+            "sequences": [
+                121,
+                122,
+                123,
+                125,
+                131,
+                133,
+                147,
+                149,
+                151,
+                152,
+                155
+            ]
+        },
+        {
+            "entity": "Jerónimo Gracián",
+            "type": "Person",
+            "sequences": [
+                133,
+                147,
+                149,
+                151
+            ]
+        },
+        {
+            "entity": "María de San José",
+            "type": "Person",
+            "sequences": [
+                147,
+                149
+            ]
+        },
+        {
+            "entity": "Juliana de la Madre de Dios",
+            "type": "Person",
+            "sequences": [
+                148,
+                149
+            ]
+        },
+        {
+            "entity": "Alba de Tormes",
+            "type": "Place",
+            "sequences": [
+                123,
+                131
+            ]
+        },
+        {
+            "entity": "Mary of St. Joseph",
+            "type": "Person",
+            "sequences": [
+                159
+            ]
+        },
+        {
+            "entity": "Juliana",
+            "type": "Person",
+            "sequences": [
+                159,
+                163
+            ]
+        },
+        {
+            "entity": "Toledo",
+            "type": "Place",
+            "sequences": [
+                159
+            ]
+        },
+        {
+            "entity": "Saint Teresa",
+            "type": "Person",
+            "sequences": [
+                159,
+                167,
+                169,
+                172,
+                173,
+                175,
+                177,
+                181,
+                183,
+                187,
+                189,
+                213,
+                215,
+                217,
+                219,
+                223,
+                225,
+                226,
+                227,
+                229,
+                233,
+                235,
+                237,
+                247,
+                251,
+                253,
+                255,
+                257,
+                259,
+                261,
+                263,
+                267,
+                269,
+                277,
+                283,
+                293,
+                303,
+                307,
+                313,
+                317
+            ]
+        },
+        {
+            "entity": "Father Master Gracián",
+            "type": "Person",
+            "sequences": [
+                159
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "Place",
+            "sequences": [
+                173,
+                175,
+                181
+            ]
+        },
+        {
+            "entity": "Friar Jerónimo Gracián",
+            "type": "Person",
+            "sequences": [
+                183,
+                187
+            ]
+        },
+        {
+            "entity": "Enrique Iglesias",
+            "type": "Person",
+            "sequences": [
+                190,
+                191,
+                192,
+                193,
+                194
+            ]
+        },
+        {
+            "entity": "Francisco de Rivera",
+            "type": "Person",
+            "sequences": [
+                195,
+                196,
+                197,
+                217,
+                293
+            ]
+        },
+        {
+            "entity": "Julio Iglesias",
+            "type": "Person",
+            "sequences": [
+                200
+            ]
+        },
+        {
+            "entity": "Cheingarcia Alonso",
+            "type": "Person",
+            "sequences": [
+                204
+            ]
+        },
+        {
+            "entity": "Havana",
+            "type": "Place",
+            "sequences": [
+                204
+            ]
+        },
+        {
+            "entity": "Cuarto Milenio",
+            "type": "Event",
+            "sequences": [
+                242
+            ]
+        },
+        {
+            "entity": "Alba de Tormes",
+            "type": "Place",
+            "sequences": [
+                255,
+                261
+            ]
+        },
+        {
+            "entity": "Avila",
+            "type": "Place",
+            "sequences": [
+                255,
+                261
+            ]
+        },
+        {
+            "entity": "Friar Gregory Nazianzen",
+            "type": "Person",
+            "sequences": [
+                265
+            ]
+        },
+        {
+            "entity": "Duchess of Alba",
+            "type": "Person",
+            "sequences": [
+                255
+            ]
+        },
+        {
+            "entity": "Maria de San Jose",
+            "type": "Person",
+            "sequences": [
+                159,
+                313
+            ]
+        },
+        {
+            "entity": "Lisbon",
+            "type": "Place",
+            "sequences": [
+                317
+            ]
+        },
+        {
+            "entity": "Elena",
+            "type": "Person",
+            "sequences": [
+                309,
+                323
+            ]
+        },
+        {
+            "entity": "Franco",
+            "type": "Person",
+            "sequences": [
+                325
+            ]
+        },
+        {
+            "entity": "St. Teresa",
+            "type": "Person",
+            "sequences": [
+                328,
+                330,
+                333,
+                334,
+                335,
+                336,
+                347,
+                349,
+                359,
+                362,
+                365,
+                369,
+                372,
+                473,
+                489
+            ]
+        },
+        {
+            "entity": "Fray Juan de la Miseria",
+            "type": "Person",
+            "sequences": [
+                337,
+                339
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346
+            ]
+        },
+        {
+            "entity": "Charles Borromeo",
+            "type": "Person",
+            "sequences": [
+                376,
+                378,
+                398,
+                413
+            ]
+        },
+        {
+            "entity": "Filippo Neri",
+            "type": "Person",
+            "sequences": [
+                376,
+                378,
+                413
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                375
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                373,
+                419
+            ]
+        },
+        {
+            "entity": "Antonio Bosio",
+            "type": "Person",
+            "sequences": [
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494
+            ]
+        },
+        {
+            "entity": "Fray José de Sigüenza",
+            "type": "Person",
+            "sequences": [
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494
+            ]
+        },
+        {
+            "entity": "El Escorial",
+            "type": "Place",
+            "sequences": [
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494
+            ]
+        },
+        {
+            "entity": "Rome",
+            "type": "Place",
+            "sequences": [
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450
+            ]
+        },
+        {
+            "entity": "Fray José de Sigüenza",
+            "type": "Person",
+            "sequences": [
+                496,
+                497,
+                499,
+                500,
+                501,
+                502,
+                503,
+                505,
+                515,
+                516,
+                533,
+                545,
+                549,
+                551,
+                565,
+                599
+            ]
+        },
+        {
+            "entity": "Escorial Monastery",
+            "type": "Place",
+            "sequences": [
+                505,
+                507,
+                515
+            ]
+        },
+        {
+            "entity": "All Saints' Day",
+            "type": "Event",
+            "sequences": [
+                507,
+                508
+            ]
+        },
+        {
+            "entity": "Corpus Christi Day",
+            "type": "Event",
+            "sequences": [
+                508
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                515,
+                545,
+                551,
+                593
+            ]
+        },
+        {
+            "entity": "Germany",
+            "type": "Place",
+            "sequences": [
+                515,
+                518,
+                523,
+                529
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                518,
+                527
+            ]
+        },
+        {
+            "entity": "Calvinist heretics",
+            "type": "Group",
+            "sequences": [
+                524,
+                525
+            ]
+        },
+        {
+            "entity": "San Lorenzo",
+            "type": "Person",
+            "sequences": [
+                535
+            ]
+        },
+        {
+            "entity": "Hernando de Colón",
+            "type": "Person",
+            "sequences": [
+                542
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                572,
+                580
+            ]
+        },
+        {
+            "entity": "Puebla, Mexico",
+            "type": "Place",
+            "sequences": [
+                572,
+                580
+            ]
+        },
+        {
+            "entity": "Isabel Clara Eugenia",
+            "type": "Person",
+            "sequences": [
+                593
+            ]
+        },
+        {
+            "entity": "Juan",
+            "type": "Person",
+            "sequences": [
+                607
+            ]
+        },
+        {
+            "entity": "Wanza",
+            "type": "Person",
+            "sequences": [
+                607
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                609,
+                611,
+                613,
+                623,
+                629
+            ]
+        },
+        {
+            "entity": "Geoffrey Parker",
+            "type": "Person",
+            "sequences": [
+                613
+            ]
+        },
+        {
+            "entity": "Sigüenza",
+            "type": "Person",
+            "sequences": [
+                613,
+                634
+            ]
+        },
+        {
+            "entity": "St. Ursula",
+            "type": "Person",
+            "sequences": [
+                645,
+                647,
+                650,
+                655,
+                657,
+                661,
+                663,
+                675,
+                688,
+                738
+            ]
+        },
+        {
+            "entity": "Lolita de la Colina",
+            "type": "Person",
+            "sequences": [
+                639,
+                640,
+                641
+            ]
+        },
+        {
+            "entity": "Joan of Austria",
+            "type": "Person",
+            "sequences": [
+                694
+            ]
+        },
+        {
+            "entity": "Margarita de la Cruz",
+            "type": "Person",
+            "sequences": [
+                703
+            ]
+        },
+        {
+            "entity": "Isabel Clarogenia",
+            "type": "Person",
+            "sequences": [
+                738
+            ]
+        },
+        {
+            "entity": "Jesuits",
+            "type": "Organization",
+            "sequences": [
+                665,
+                669,
+                671,
+                673,
+                675
+            ]
+        },
+        {
+            "entity": "Holy Roman Empire",
+            "type": "Organization",
+            "sequences": [
+                703
+            ]
+        },
+        {
+            "entity": "Las Descalzas Reales",
+            "type": "Place",
+            "sequences": [
+                697,
+                698,
+                701,
+                703
+            ]
+        },
+        {
+            "entity": "Escorial",
+            "type": "Place",
+            "sequences": [
+                701
+            ]
+        },
+        {
+            "entity": "Rome",
+            "type": "Place",
+            "sequences": [
+                701
+            ]
+        },
+        {
+            "entity": "Brazil",
+            "type": "Place",
+            "sequences": [
+                701,
+                675
+            ]
+        },
+        {
+            "entity": "Rhode Island",
+            "type": "Place",
+            "sequences": [
+                651,
+                652,
+                653
+            ]
+        },
+        {
+            "entity": "Holy Land",
+            "type": "Place",
+            "sequences": [
+                661,
+                662,
+                663
+            ]
+        },
+        {
+            "entity": "Cologne",
+            "type": "Place",
+            "sequences": [
+                663
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "Place",
+            "sequences": [
+                691
+            ]
+        },
+        {
+            "entity": "Council of Trent",
+            "type": "Organization",
+            "sequences": [
+                747
+            ]
+        },
+        {
+            "entity": "Spain",
+            "type": "Place",
+            "sequences": [
+                747
+            ]
+        },
+        {
+            "entity": "Naples",
+            "type": "Place",
+            "sequences": [
+                747,
+                749,
+                753
+            ]
+        },
+        {
+            "entity": "Benedictine nuns",
+            "type": "Organization",
+            "sequences": [
+                749
+            ]
+        },
+        {
+            "entity": "St. Patricia",
+            "type": "Person",
+            "sequences": [
+                749
+            ]
+        },
+        {
+            "entity": "St. Gennaro",
+            "type": "Person",
+            "sequences": [
+                753
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "Place",
+            "sequences": [
+                755,
+                757,
+                758
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                755,
+                804
+            ]
+        },
+        {
+            "entity": "Rome",
+            "type": "Place",
+            "sequences": [
+                755
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                761,
+                763,
+                765,
+                767,
+                769,
+                771,
+                775,
+                777,
+                783,
+                787,
+                789,
+                791,
+                793,
+                795,
+                797
+            ]
+        },
+        {
+            "entity": "Gracián",
+            "type": "Person",
+            "sequences": [
+                761
+            ]
+        },
+        {
+            "entity": "Carmelite scholars",
+            "type": "Organization",
+            "sequences": [
+                765
+            ]
+        },
+        {
+            "entity": "Francisco de Rivera",
+            "type": "Person",
+            "sequences": [
+                770,
+                771,
+                777
+            ]
+        },
+        {
+            "entity": "Genoveva of Toledo",
+            "type": "Person",
+            "sequences": [
+                775,
+                777,
+                783,
+                785
+            ]
+        },
+        {
+            "entity": "Hieronymite of the Holy Spirit",
+            "type": "Person",
+            "sequences": [
+                793
+            ]
+        },
+        {
+            "entity": "Jerónima del Espíritu Santo",
+            "type": "Person",
+            "sequences": [
+                794,
+                795
+            ]
+        },
+        {
+            "entity": "Mariana de San Angelo",
+            "type": "Person",
+            "sequences": [
+                797
+            ]
+        },
+        {
+            "entity": "National Museum of Sculpture, Valladolid",
+            "type": "Organization",
+            "sequences": [
+                808
+            ]
+        },
+        {
+            "entity": "Ignatius of Loyola",
+            "type": "Person",
+            "sequences": [
+                810
+            ]
+        },
+        {
+            "entity": "Bringas",
+            "type": "Person",
+            "sequences": [
+                812,
+                813,
+                814,
+                815
+            ]
+        },
+        {
+            "entity": "Rosalia de Bringas",
+            "type": "Person",
+            "sequences": [
+                815
+            ]
+        },
+        {
+            "entity": "The Vatican",
+            "type": "Organization",
+            "sequences": [
+                818,
+                819,
+                820,
+                822,
+                824,
+                826,
+                828,
+                830,
+                836,
+                838,
+                840
+            ]
+        },
+        {
+            "entity": "Eugenia, from Brussels",
+            "type": "Person",
+            "sequences": [
+                839
+            ]
+        },
+        {
+            "entity": "St. Alphonsus Liguori",
+            "type": "Person",
+            "sequences": [
+                854
+            ]
+        },
+        {
+            "entity": "St. Vitus",
+            "type": "Person",
+            "sequences": [
+                854,
+                860
+            ]
+        },
+        {
+            "entity": "St. Benatius",
+            "type": "Person",
+            "sequences": [
+                854,
+                860
+            ]
+        },
+        {
+            "entity": "María Forqué",
+            "type": "Person",
+            "sequences": [
+                887,
+                888,
+                889
+            ]
+        },
+        {
+            "entity": "Veronica Forqué",
+            "type": "Person",
+            "sequences": [
+                887
+            ]
+        },
+        {
+            "entity": "Winneth Paltrow",
+            "type": "Person",
+            "sequences": [
+                892,
+                893,
+                895,
+                897
+            ]
+        },
+        {
+            "entity": "batistery",
+            "type": "place",
+            "sequences": [
+                910,
+                913,
+                914,
+                916
+            ]
+        },
+        {
+            "entity": "Roman Christians",
+            "type": "group",
+            "sequences": [
+                910,
+                912,
+                914,
+                916
+            ]
+        },
+        {
+            "entity": "1st century A.D.",
+            "type": "time period",
+            "sequences": [
+                910
+            ]
+        },
+        {
+            "entity": "Roman empire",
+            "type": "civilization",
+            "sequences": [
+                910,
+                914
+            ]
+        },
+        {
+            "entity": "Encarnita",
+            "type": "person",
+            "sequences": [
+                913
+            ]
+        },
+        {
+            "entity": "grandfather",
+            "type": "person",
+            "sequences": [
+                910,
+                915
+            ]
+        },
+        {
+            "entity": "1920",
+            "type": "year",
+            "sequences": [
+                915
+            ]
+        },
+        {
+            "entity": "Spain",
+            "type": "country",
+            "sequences": [
+                916
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Caroline Walker Bynum, works on Christian materiality and the Middle Ages",
+            "sequence": 93
+        }
+    ]
+}

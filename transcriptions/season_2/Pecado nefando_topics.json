@@ -1,0 +1,708 @@
+{
+    "topics": [
+        {
+            "topic": "Initial Greetings",
+            "sequence_range": "1-4",
+            "start_time": 15230,
+            "end_time": 17492
+        },
+        {
+            "topic": "Personal Feelings and Experiences",
+            "sequence_range": "5-18",
+            "start_time": 18433,
+            "end_time": 104541
+        },
+        {
+            "topic": "Travel and Conferences",
+            "sequence_range": "19-21",
+            "start_time": 104801,
+            "end_time": 114372
+        },
+        {
+            "topic": "Daily Life and Eating Habits",
+            "sequence_range": "22-40",
+            "start_time": 114532,
+            "end_time": 268889
+        },
+        {
+            "topic": "Discussion on the Word 'Nefando'",
+            "sequence_range": "41-49",
+            "start_time": 268909,
+            "end_time": 304303
+        },
+        {
+            "topic": "Historical and Cultural Discussion on Homosexuality",
+            "sequence_range": "50-158",
+            "start_time": 304904,
+            "end_time": 1361549
+        },
+        {
+            "topic": "Historical accounts of homosexuality and punishment",
+            "sequence_range": "159-181",
+            "start_time": 1361569,
+            "end_time": 1518207
+        },
+        {
+            "topic": "Personal anecdotes and reflections on vulnerability and identity",
+            "sequence_range": "182-187",
+            "start_time": 1518247,
+            "end_time": 1615615
+        },
+        {
+            "topic": "Academic research and archival work on homosexuality in history",
+            "sequence_range": "188-197",
+            "start_time": 1615755,
+            "end_time": 1769681
+        },
+        {
+            "topic": "Specific historical cases and anecdotes from archives",
+            "sequence_range": "198-226",
+            "start_time": 1770121,
+            "end_time": 2109797
+        },
+        {
+            "topic": "Contemporary reflections on sexuality, faith, and societal perceptions",
+            "sequence_range": "227-252",
+            "start_time": 2109957,
+            "end_time": 2302104
+        },
+        {
+            "topic": "Discussion on historical figures and their impact on perceptions of homosexuality",
+            "sequence_range": "253-282",
+            "start_time": 2302124,
+            "end_time": 2702776
+        },
+        {
+            "topic": "Juan Rana and Golosina",
+            "sequence_range": "283-285",
+            "start_time": 2703036,
+            "end_time": 2722334
+        },
+        {
+            "topic": "Academic discussion on historical persecution, pleasure, and resistance",
+            "sequence_range": "286-287",
+            "start_time": 2722594,
+            "end_time": 2747563
+        },
+        {
+            "topic": "Travel and personal anecdotes",
+            "sequence_range": "288",
+            "start_time": 2747583,
+            "end_time": 2749323
+        },
+        {
+            "topic": "Historical analysis of sodomy and societal norms in Hispanic society",
+            "sequence_range": "289-373",
+            "start_time": 2752464,
+            "end_time": 3617473
+        },
+        {
+            "topic": "Archival work and historical figures",
+            "sequence_range": "374-425",
+            "start_time": 3617694,
+            "end_time": 4076884
+        },
+        {
+            "topic": "Historical and Cultural Analysis of Iconography",
+            "sequence_range": "426-461",
+            "start_time": 4077248,
+            "end_time": 4474664
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                67
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                2,
+                8,
+                30,
+                31
+            ]
+        },
+        {
+            "entity": "Subterfuge Radio",
+            "type": "Organization",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "National Library",
+            "type": "Place",
+            "sequences": [
+                14
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                14
+            ]
+        },
+        {
+            "entity": "Rosalia",
+            "type": "Person",
+            "sequences": [
+                17
+            ]
+        },
+        {
+            "entity": "Dublin",
+            "type": "Place",
+            "sequences": [
+                19
+            ]
+        },
+        {
+            "entity": "Renaissance Society",
+            "type": "Organization",
+            "sequences": [
+                20
+            ]
+        },
+        {
+            "entity": "Villalba",
+            "type": "Place",
+            "sequences": [
+                22
+            ]
+        },
+        {
+            "entity": "Lidia",
+            "type": "Person",
+            "sequences": [
+                29,
+                30
+            ]
+        },
+        {
+            "entity": "Bar Goya",
+            "type": "Place",
+            "sequences": [
+                33
+            ]
+        },
+        {
+            "entity": "James I of England",
+            "type": "Person",
+            "sequences": [
+                104,
+                108
+            ]
+        },
+        {
+            "entity": "George Villiers",
+            "type": "Person",
+            "sequences": [
+                110
+            ]
+        },
+        {
+            "entity": "Francisco Garza Carvajal",
+            "type": "Person",
+            "sequences": [
+                123,
+                128
+            ]
+        },
+        {
+            "entity": "Catholic Monarchs",
+            "type": "Person",
+            "sequences": [
+                141,
+                142,
+                152
+            ]
+        },
+        {
+            "entity": "Alfonso X the Wise",
+            "type": "Person",
+            "sequences": [
+                148
+            ]
+        },
+        {
+            "entity": "Fray Pedro de Leon",
+            "type": "Person",
+            "sequences": [
+                157
+            ]
+        },
+        {
+            "entity": "Jesuit",
+            "type": "organization",
+            "sequences": [
+                159
+            ]
+        },
+        {
+            "entity": "Fray Pedro de León",
+            "type": "person",
+            "sequences": [
+                159,
+                181
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "place",
+            "sequences": [
+                161,
+                162,
+                163
+            ]
+        },
+        {
+            "entity": "Cristobal Chavez",
+            "type": "person",
+            "sequences": [
+                168,
+                169
+            ]
+        },
+        {
+            "entity": "Villarreal",
+            "type": "person",
+            "sequences": [
+                169,
+                171,
+                182
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "person",
+            "sequences": [
+                173,
+                174,
+                175,
+                182,
+                224
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "person",
+            "sequences": [
+                185,
+                187,
+                188
+            ]
+        },
+        {
+            "entity": "Guillermo de los Reyes",
+            "type": "person",
+            "sequences": [
+                189,
+                196,
+                197
+            ]
+        },
+        {
+            "entity": "Juan Altamirano",
+            "type": "person",
+            "sequences": [
+                203
+            ]
+        },
+        {
+            "entity": "José Vargas",
+            "type": "person",
+            "sequences": [
+                203
+            ]
+        },
+        {
+            "entity": "Carlos Jiménez Mondragón",
+            "type": "person",
+            "sequences": [
+                215
+            ]
+        },
+        {
+            "entity": "Pedro de Heredia",
+            "type": "person",
+            "sequences": [
+                217,
+                219,
+                225
+            ]
+        },
+        {
+            "entity": "Father Damian",
+            "type": "person",
+            "sequences": [
+                227,
+                229,
+                235,
+                247,
+                249
+            ]
+        },
+        {
+            "entity": "Francisco de Quevedo",
+            "type": "person",
+            "sequences": [
+                254
+            ]
+        },
+        {
+            "entity": "Juan Rana (Cosme Pérez)",
+            "type": "person",
+            "sequences": [
+                258,
+                260,
+                262,
+                264,
+                266,
+                268,
+                277,
+                279,
+                281
+            ]
+        },
+        {
+            "entity": "Felipe IV",
+            "type": "person",
+            "sequences": [
+                262,
+                263
+            ]
+        },
+        {
+            "entity": "La Calderona",
+            "type": "person",
+            "sequences": [
+                260
+            ]
+        },
+        {
+            "entity": "Juan Rana",
+            "type": "Person",
+            "sequences": [
+                283,
+                284,
+                286
+            ]
+        },
+        {
+            "entity": "Golosina",
+            "type": "Unknown",
+            "sequences": [
+                285
+            ]
+        },
+        {
+            "entity": "Villalba",
+            "type": "Place",
+            "sequences": [
+                288
+            ]
+        },
+        {
+            "entity": "Serge Grudzinski",
+            "type": "Person",
+            "sequences": [
+                289
+            ]
+        },
+        {
+            "entity": "Dublin",
+            "type": "Place",
+            "sequences": [
+                289
+            ]
+        },
+        {
+            "entity": "Gongora",
+            "type": "Person",
+            "sequences": [
+                297,
+                298
+            ]
+        },
+        {
+            "entity": "New Spain",
+            "type": "Place",
+            "sequences": [
+                299,
+                309,
+                317,
+                319
+            ]
+        },
+        {
+            "entity": "Royal Jail of Mexico City",
+            "type": "Organization",
+            "sequences": [
+                309
+            ]
+        },
+        {
+            "entity": "Viceroy of New Mexico",
+            "type": "Position",
+            "sequences": [
+                309
+            ]
+        },
+        {
+            "entity": "Philip's daughters",
+            "type": "Group of People",
+            "sequences": [
+                310
+            ]
+        },
+        {
+            "entity": "Juan de la Vega (Cotita)",
+            "type": "Person",
+            "sequences": [
+                319,
+                335
+            ]
+        },
+        {
+            "entity": "Miguel Jerónimo (La Zangarriana)",
+            "type": "Person",
+            "sequences": [
+                319,
+                379,
+                380
+            ]
+        },
+        {
+            "entity": "Juan Correa (La Estampa)",
+            "type": "Person",
+            "sequences": [
+                319,
+                343
+            ]
+        },
+        {
+            "entity": "Alonso (La Conchita)",
+            "type": "Person",
+            "sequences": [
+                319
+            ]
+        },
+        {
+            "entity": "Bernabé (La Luna)",
+            "type": "Person",
+            "sequences": [
+                319,
+                322,
+                323
+            ]
+        },
+        {
+            "entity": "Sebastian Perez (Las Rosas)",
+            "type": "Person",
+            "sequences": [
+                323
+            ]
+        },
+        {
+            "entity": "Martin (La Martina de los Cielos)",
+            "type": "Person",
+            "sequences": [
+                325
+            ]
+        },
+        {
+            "entity": "La Amorosa",
+            "type": "Person",
+            "sequences": [
+                329
+            ]
+        },
+        {
+            "entity": "Miguel de Urbina",
+            "type": "Person",
+            "sequences": [
+                365,
+                367
+            ]
+        },
+        {
+            "entity": "St. Teresa",
+            "type": "Person",
+            "sequences": [
+                348,
+                352
+            ]
+        },
+        {
+            "entity": "Maria de San Jose",
+            "type": "Person",
+            "sequences": [
+                352
+            ]
+        },
+        {
+            "entity": "Javier",
+            "type": "Person",
+            "sequences": [
+                337,
+                338
+            ]
+        },
+        {
+            "entity": "San Sebastian",
+            "type": "Person",
+            "sequences": [
+                420,
+                421,
+                422
+            ]
+        },
+        {
+            "entity": "La serrana de la Vera",
+            "type": "Play",
+            "sequences": [
+                426
+            ]
+        },
+        {
+            "entity": "Gila",
+            "type": "Character",
+            "sequences": [
+                426
+            ]
+        },
+        {
+            "entity": "Isabel the Catholic",
+            "type": "Historical Figure",
+            "sequences": [
+                426
+            ]
+        },
+        {
+            "entity": "Magdalena",
+            "type": "Character",
+            "sequences": [
+                426
+            ]
+        },
+        {
+            "entity": "Sherry Velasco",
+            "type": "Researcher",
+            "sequences": [
+                426
+            ]
+        },
+        {
+            "entity": "Francisco Pacheco",
+            "type": "Painter/Inquisition Figure",
+            "sequences": [
+                426,
+                427
+            ]
+        },
+        {
+            "entity": "San Sebastian",
+            "type": "Saint",
+            "sequences": [
+                426,
+                430,
+                431,
+                435,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456
+            ]
+        },
+        {
+            "entity": "Tania Tiffany",
+            "type": "Individual",
+            "sequences": [
+                428,
+                429
+            ]
+        },
+        {
+            "entity": "Saint Irene",
+            "type": "Saint",
+            "sequences": [
+                430,
+                441,
+                442
+            ]
+        },
+        {
+            "entity": "Emperor Diocletian",
+            "type": "Historical Figure",
+            "sequences": [
+                431,
+                435
+            ]
+        },
+        {
+            "entity": "Duke of Buckingham",
+            "type": "Historical Figure",
+            "sequences": [
+                436
+            ]
+        },
+        {
+            "entity": "Nigel Spivey",
+            "type": "Author",
+            "sequences": [
+                445,
+                446,
+                447,
+                448,
+                449
+            ]
+        },
+        {
+            "entity": "Robert Mapplethorpe",
+            "type": "Photographer",
+            "sequences": [
+                449,
+                450,
+                451,
+                452,
+                453
+            ]
+        },
+        {
+            "entity": "Patti Smith",
+            "type": "Musician",
+            "sequences": [
+                451
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Quemando mariposas, sodomía e imperio en Andalucía y México, siglos XVI y XVII by Francisco Garza Carvajal",
+            "sequence": 123
+        }
+    ]
+}

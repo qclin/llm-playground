@@ -1,0 +1,681 @@
+{
+    "topics": [
+        {
+            "topic": "Greetings and Social Interaction",
+            "sequence_range": "1-2",
+            "start_time": 15857,
+            "end_time": 18438
+        },
+        {
+            "topic": "Time and Constancy",
+            "sequence_range": "3-9",
+            "start_time": 18778,
+            "end_time": 33563
+        },
+        {
+            "topic": "Food and Dining Experiences",
+            "sequence_range": "10-14",
+            "start_time": 33623,
+            "end_time": 79287
+        },
+        {
+            "topic": "Housing and Living Situations",
+            "sequence_range": "15-22",
+            "start_time": 79868,
+            "end_time": 125916
+        },
+        {
+            "topic": "Madrid-centric Discussion and Cultural References",
+            "sequence_range": "23-24",
+            "start_time": 125936,
+            "end_time": 153433
+        },
+        {
+            "topic": "Historical Madrid and Real Estate",
+            "sequence_range": "25-62",
+            "start_time": 153453,
+            "end_time": 1087389
+        },
+        {
+            "topic": "Construction and Urban Planning",
+            "sequence_range": "63-67",
+            "start_time": 1087409,
+            "end_time": 1166667
+        },
+        {
+            "topic": "Music and Personal Reflections",
+            "sequence_range": "68-71",
+            "start_time": 1181013,
+            "end_time": 1274699
+        },
+        {
+            "topic": "Duke of Lerma and Historical Corruption",
+            "sequence_range": "72-76",
+            "start_time": 1275119,
+            "end_time": 1401205
+        },
+        {
+            "topic": "Historical Events and Personalities",
+            "sequence_range": "77-135",
+            "start_time": 1404931,
+            "end_time": 2707044
+        },
+        {
+            "topic": "Real Estate and Urban Development",
+            "sequence_range": "93-117",
+            "start_time": 1862034,
+            "end_time": 2401079
+        },
+        {
+            "topic": "Domestic Space and Privacy",
+            "sequence_range": "120-135",
+            "start_time": 2408305,
+            "end_time": 2707044
+        },
+        {
+            "topic": "Architecture and Urban Planning in Historical Madrid",
+            "sequence_range": "136-148",
+            "start_time": 2707064,
+            "end_time": 3091575
+        },
+        {
+            "topic": "Regulations and Corruption in Housing",
+            "sequence_range": "149",
+            "start_time": 3092456,
+            "end_time": 3240552
+        },
+        {
+            "topic": "Contemporary Urban Issues and Social Commentary",
+            "sequence_range": "150-151",
+            "start_time": 3242974,
+            "end_time": 3327372
+        },
+        {
+            "topic": "Closing Remarks and Recommendations",
+            "sequence_range": "152-155",
+            "start_time": 3327812,
+            "end_time": 3420745
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                3,
+                10,
+                25
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                2,
+                10,
+                14,
+                17,
+                23,
+                58,
+                63
+            ]
+        },
+        {
+            "entity": "Philip",
+            "type": "Person",
+            "sequences": [
+                3
+            ]
+        },
+        {
+            "entity": "Providence Rhode Island",
+            "type": "Place",
+            "sequences": [
+                13
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                19,
+                20,
+                23,
+                24,
+                25,
+                35,
+                36,
+                44,
+                46,
+                47,
+                57,
+                62
+            ]
+        },
+        {
+            "entity": "Raquel Peláez",
+            "type": "Person",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "C. Tangana",
+            "type": "Person",
+            "sequences": [
+                24
+            ]
+        },
+        {
+            "entity": "Ruda Street",
+            "type": "Place",
+            "sequences": [
+                25
+            ]
+        },
+        {
+            "entity": "Plaza de la Cebada",
+            "type": "Place",
+            "sequences": [
+                25
+            ]
+        },
+        {
+            "entity": "Isabel Alonso",
+            "type": "Person",
+            "sequences": [
+                31,
+                33,
+                34
+            ]
+        },
+        {
+            "entity": "Alonso de Avendaño",
+            "type": "Person",
+            "sequences": [
+                31,
+                34
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                32
+            ]
+        },
+        {
+            "entity": "Junta de Aposento de Madrid",
+            "type": "Organization",
+            "sequences": [
+                35
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                36
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                36,
+                44,
+                74
+            ]
+        },
+        {
+            "entity": "Valladolid",
+            "type": "Place",
+            "sequences": [
+                36
+            ]
+        },
+        {
+            "entity": "Junta de Reformación",
+            "type": "Organization",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Teodoro Ardemans",
+            "type": "Person",
+            "sequences": [
+                47,
+                53
+            ]
+        },
+        {
+            "entity": "Pino Espino",
+            "type": "Person",
+            "sequences": [
+                50
+            ]
+        },
+        {
+            "entity": "Santiago Bernabéu Stadium",
+            "type": "Place",
+            "sequences": [
+                59,
+                60
+            ]
+        },
+        {
+            "entity": "Javier Caireta",
+            "type": "Person",
+            "sequences": [
+                60
+            ]
+        },
+        {
+            "entity": "Salas Barbadillo",
+            "type": "Person",
+            "sequences": [
+                61
+            ]
+        },
+        {
+            "entity": "Lope",
+            "type": "Person",
+            "sequences": [
+                61
+            ]
+        },
+        {
+            "entity": "Juan Bautista de Toledo",
+            "type": "Person",
+            "sequences": [
+                62
+            ]
+        },
+        {
+            "entity": "Juan de Herrera",
+            "type": "Person",
+            "sequences": [
+                62
+            ]
+        },
+        {
+            "entity": "Juan de Valencia",
+            "type": "Person",
+            "sequences": [
+                62
+            ]
+        },
+        {
+            "entity": "Francisco de Mora",
+            "type": "Person",
+            "sequences": [
+                62
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                66,
+                67,
+                70,
+                72
+            ]
+        },
+        {
+            "entity": "La Fuente and Jumbif",
+            "type": "Person",
+            "sequences": [
+                67
+            ]
+        },
+        {
+            "entity": "Antonio Feros",
+            "type": "Person",
+            "sequences": [
+                72
+            ]
+        },
+        {
+            "entity": "Franz Christoph Kevin Huller",
+            "type": "Person",
+            "sequences": [
+                72
+            ]
+        },
+        {
+            "entity": "Felipe III",
+            "type": "Person",
+            "sequences": [
+                74
+            ]
+        },
+        {
+            "entity": "Jerónimo Sepúlveda",
+            "type": "Person",
+            "sequences": [
+                74,
+                76
+            ]
+        },
+        {
+            "entity": "Geronimo de Sepulveda",
+            "type": "Person",
+            "sequences": [
+                77,
+                79,
+                85,
+                87,
+                89,
+                90,
+                91,
+                97,
+                99,
+                100,
+                105,
+                114,
+                115,
+                117
+            ]
+        },
+        {
+            "entity": "Duke of Merma",
+            "type": "Person",
+            "sequences": [
+                77
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                77,
+                85,
+                87,
+                89,
+                90,
+                91,
+                117,
+                119
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                77,
+                79,
+                80,
+                82,
+                83,
+                84,
+                85,
+                93,
+                94,
+                95,
+                97,
+                99,
+                100,
+                102,
+                103,
+                104,
+                105,
+                109,
+                111,
+                117
+            ]
+        },
+        {
+            "entity": "Valladolid",
+            "type": "Place",
+            "sequences": [
+                77,
+                79,
+                85,
+                87,
+                91,
+                93,
+                97,
+                99,
+                100,
+                102,
+                105,
+                117
+            ]
+        },
+        {
+            "entity": "Duke de la Armavía",
+            "type": "Person",
+            "sequences": [
+                79
+            ]
+        },
+        {
+            "entity": "Antoine de Grunel",
+            "type": "Person",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Elena",
+            "type": "Person",
+            "sequences": [
+                82
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                87,
+                91,
+                93,
+                105,
+                117
+            ]
+        },
+        {
+            "entity": "Maria of Austria",
+            "type": "Person",
+            "sequences": [
+                87,
+                89,
+                90
+            ]
+        },
+        {
+            "entity": "Marquis of Camarasa",
+            "type": "Person",
+            "sequences": [
+                91,
+                92,
+                93
+            ]
+        },
+        {
+            "entity": "Lope de Deza",
+            "type": "Person",
+            "sequences": [
+                134
+            ]
+        },
+        {
+            "entity": "Joan de Jerez",
+            "type": "Person",
+            "sequences": [
+                134
+            ]
+        },
+        {
+            "entity": "Lope de Beza",
+            "type": "Person",
+            "sequences": [
+                136
+            ]
+        },
+        {
+            "entity": "Joan de Jerez",
+            "type": "Person",
+            "sequences": [
+                136
+            ]
+        },
+        {
+            "entity": "Alcide de Bonnecasse",
+            "type": "Person",
+            "sequences": [
+                136
+            ]
+        },
+        {
+            "entity": "Juan de Torrija",
+            "type": "Person",
+            "sequences": [
+                137
+            ]
+        },
+        {
+            "entity": "Don Diego de Corral y Arellano",
+            "type": "Person",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Prado",
+            "type": "Place",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Ruda Street",
+            "type": "Place",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Domingo Valdemoro",
+            "type": "Person",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Ileras Street",
+            "type": "Place",
+            "sequences": [
+                138,
+                139
+            ]
+        },
+        {
+            "entity": "Isabel and Luisa de Osategui",
+            "type": "Person",
+            "sequences": [
+                140
+            ]
+        },
+        {
+            "entity": "Isabel Alonso",
+            "type": "Person",
+            "sequences": [
+                142
+            ]
+        },
+        {
+            "entity": "Calle de la Redondilla",
+            "type": "Place",
+            "sequences": [
+                143
+            ]
+        },
+        {
+            "entity": "Calle Mancebos",
+            "type": "Place",
+            "sequences": [
+                143
+            ]
+        },
+        {
+            "entity": "Las Vistillas",
+            "type": "Place",
+            "sequences": [
+                143
+            ]
+        },
+        {
+            "entity": "Robert Barton",
+            "type": "Person",
+            "sequences": [
+                148
+            ]
+        },
+        {
+            "entity": "Airbnb",
+            "type": "Organization",
+            "sequences": [
+                150
+            ]
+        },
+        {
+            "entity": "Canalejas case",
+            "type": "Event",
+            "sequences": [
+                150
+            ]
+        },
+        {
+            "entity": "Paco El Pocero",
+            "type": "Person",
+            "sequences": [
+                150
+            ]
+        },
+        {
+            "entity": "Instagram",
+            "type": "Platform",
+            "sequences": [
+                151
+            ]
+        },
+        {
+            "entity": "preferiria.periferia",
+            "type": "Social Media Account",
+            "sequences": [
+                151
+            ]
+        },
+        {
+            "entity": "Zaragoza",
+            "type": "Place",
+            "sequences": [
+                151
+            ]
+        },
+        {
+            "entity": "Barcelona",
+            "type": "Place",
+            "sequences": [
+                151
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                151
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Raquel Peláez article",
+            "sequence": 23
+        }
+    ]
+}

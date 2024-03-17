@@ -1,0 +1,507 @@
+{
+    "topics": [
+        {
+            "topic": "Radio broadcasting",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Personal interactions and dietary choices",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Nuns, money, TikTok, and economic affairs",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Historical and contemporary nuns' engagement with social media and entrepreneurship",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Music and its role in convents and nun's lives",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Saint Teresa's relationship with money and economic management",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Conventual life, challenges, and economic survival",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Millennial nuns and their adaptation to modern technology and social media",
+            "sequence_range": "1",
+            "start_time": 4144,
+            "end_time": 7514
+        },
+        {
+            "topic": "Monetary aspects of religious life",
+            "sequence_range": "3-15",
+            "start_time": 3554445,
+            "end_time": 3650951
+        },
+        {
+            "topic": "Artistic expression and economic survival",
+            "sequence_range": "13-17",
+            "start_time": 3632365,
+            "end_time": 3783953
+        },
+        {
+            "topic": "Impact of pandemic on personal projects and social media",
+            "sequence_range": "16-27",
+            "start_time": 3650971,
+            "end_time": 3855937
+        },
+        {
+            "topic": "Religious content on TikTok and its implications",
+            "sequence_range": "28-92",
+            "start_time": 3855957,
+            "end_time": 4336589
+        },
+        {
+            "topic": "Personal anecdotes and experiences with religion and art",
+            "sequence_range": "93-126",
+            "start_time": 4336609,
+            "end_time": 4601683
+        },
+        {
+            "topic": "Engagement with the youth through social media",
+            "sequence_range": "116-138",
+            "start_time": 4442605,
+            "end_time": 4682663
+        },
+        {
+            "topic": "Conceptualizing a religious theme park",
+            "sequence_range": "145-167",
+            "start_time": 4745670,
+            "end_time": 4840027
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Radio",
+            "type": "Medium",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Matías",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Nuns of Santa Clara de Manresa",
+            "type": "Organization",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Dominican Sisters of Manresa",
+            "type": "Organization",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Fundación Tutelar Santa Clara",
+            "type": "Organization",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Sister Lucia Caram",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Jason Derulo",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Hildegard von Bingen",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Jutta",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ruppersberg Convent",
+            "type": "Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Wingen Convent",
+            "type": "Place",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Saint Teresa",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ricardo García Cárcel",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Maria de San Jose",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Lucrezia Orsina Vizzana",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Craig Monson",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Daughters of St. Paul",
+            "type": "Organization",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "David Macho",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Damián María Montes",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Lucia",
+            "type": "Person",
+            "sequences": [
+                4
+            ]
+        },
+        {
+            "entity": "St. Teresa",
+            "type": "Person",
+            "sequences": [
+                4,
+                10,
+                99,
+                101
+            ]
+        },
+        {
+            "entity": "Rosalía",
+            "type": "Person",
+            "sequences": [
+                7
+            ]
+        },
+        {
+            "entity": "David",
+            "type": "Person",
+            "sequences": [
+                16,
+                55,
+                56,
+                58,
+                164,
+                165
+            ]
+        },
+        {
+            "entity": "Disney",
+            "type": "Organization",
+            "sequences": [
+                16
+            ]
+        },
+        {
+            "entity": "Amazon",
+            "type": "Organization",
+            "sequences": [
+                19
+            ]
+        },
+        {
+            "entity": "Google",
+            "type": "Organization",
+            "sequences": [
+                20,
+                21
+            ]
+        },
+        {
+            "entity": "TikTok",
+            "type": "Platform",
+            "sequences": [
+                16,
+                23,
+                24,
+                25,
+                31,
+                32,
+                36,
+                37,
+                39,
+                41,
+                42,
+                91,
+                92,
+                93,
+                116,
+                117,
+                121,
+                129,
+                135,
+                136,
+                137,
+                138,
+                142,
+                143
+            ]
+        },
+        {
+            "entity": "Damian",
+            "type": "Person",
+            "sequences": [
+                36,
+                42,
+                43,
+                108,
+                109,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                129,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167
+            ]
+        },
+        {
+            "entity": "Jordi Lavanda",
+            "type": "Person",
+            "sequences": [
+                66,
+                67,
+                68,
+                69,
+                70,
+                71
+            ]
+        },
+        {
+            "entity": "St. Jude Thaddeus",
+            "type": "Person",
+            "sequences": [
+                93,
+                94,
+                95,
+                96,
+                97,
+                98
+            ]
+        },
+        {
+            "entity": "St. John of the Cross",
+            "type": "Person",
+            "sequences": [
+                103,
+                104,
+                105
+            ]
+        },
+        {
+            "entity": "Federico García Lorca",
+            "type": "Person",
+            "sequences": [
+                106,
+                107
+            ]
+        },
+        {
+            "entity": "Chisquia",
+            "type": "Person",
+            "sequences": [
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126
+            ]
+        },
+        {
+            "entity": "Matías",
+            "type": "Person",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Siskia",
+            "type": "Person",
+            "sequences": [
+                82
+            ]
+        },
+        {
+            "entity": "Maria",
+            "type": "Person",
+            "sequences": [
+                81
+            ]
+        },
+        {
+            "entity": "Santa Cristina",
+            "type": "Place",
+            "sequences": [
+                45,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                168
+            ]
+        },
+        {
+            "entity": "Holy Land",
+            "type": "Concept",
+            "sequences": [
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Journal of Biblical Integration in Business",
+            "sequence": 1
+        }
+    ]
+}

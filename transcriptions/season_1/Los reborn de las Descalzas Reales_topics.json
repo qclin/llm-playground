@@ -1,0 +1,388 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction and personal updates",
+            "sequence_range": "1-7",
+            "start_time": 15202,
+            "end_time": 113764
+        },
+        {
+            "topic": "Convent of the Descalzas Reales and its history",
+            "sequence_range": "8-9",
+            "start_time": 114522,
+            "end_time": 491840
+        },
+        {
+            "topic": "Margarita de la Cruz and her devotion to the Child Jesus",
+            "sequence_range": "10-46",
+            "start_time": 491880,
+            "end_time": 1562721
+        },
+        {
+            "topic": "Life and Devotion of Margaret of the Cross",
+            "sequence_range": "47-48",
+            "start_time": 1563201,
+            "end_time": 1783886
+        },
+        {
+            "topic": "Nuns' Relationship with Christ and Motherhood",
+            "sequence_range": "49-51",
+            "start_time": 1785537,
+            "end_time": 2013766
+        },
+        {
+            "topic": "Devotion to the Child Jesus in Convents",
+            "sequence_range": "52-56",
+            "start_time": 2015603,
+            "end_time": 2308877
+        },
+        {
+            "topic": "Margaret of the Cross's Concerns and Practices",
+            "sequence_range": "53-56",
+            "start_time": 2121313,
+            "end_time": 2308877
+        },
+        {
+            "topic": "Festivities and Practices around the Child Jesus Statuettes",
+            "sequence_range": "57-58",
+            "start_time": 2309117,
+            "end_time": 2416716
+        },
+        {
+            "topic": "Modern Parallels to Historical Devotional Practices",
+            "sequence_range": "60-65",
+            "start_time": 2417676,
+            "end_time": 2786340
+        },
+        {
+            "topic": "Reborn Dolls and Their Significance",
+            "sequence_range": "63-75",
+            "start_time": 2541552,
+            "end_time": 2909614
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                1,
+                6,
+                7,
+                28,
+                38,
+                39
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                1
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                2,
+                3,
+                8,
+                9
+            ]
+        },
+        {
+            "entity": "Convent of the Descalzas Reales",
+            "type": "Place",
+            "sequences": [
+                8,
+                9,
+                11,
+                16,
+                18,
+                27,
+                29,
+                39,
+                40,
+                42,
+                44,
+                46
+            ]
+        },
+        {
+            "entity": "Margarita de la Cruz",
+            "type": "Person",
+            "sequences": [
+                7,
+                10,
+                11,
+                14,
+                16,
+                18,
+                22,
+                25,
+                27,
+                28,
+                29,
+                33,
+                35,
+                39,
+                40,
+                42,
+                44,
+                45,
+                46
+            ]
+        },
+        {
+            "entity": "Juana of Austria",
+            "type": "Person",
+            "sequences": [
+                9,
+                11,
+                12,
+                16,
+                18,
+                25,
+                27,
+                42,
+                43,
+                46
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                9,
+                16,
+                18,
+                22,
+                25,
+                27,
+                30,
+                42,
+                43,
+                44
+            ]
+        },
+        {
+            "entity": "Philip III",
+            "type": "Person",
+            "sequences": [
+                27,
+                28,
+                40,
+                41,
+                42,
+                44
+            ]
+        },
+        {
+            "entity": "Natalia Figueroa",
+            "type": "Person",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Rafael",
+            "type": "Person",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Antonio Gala",
+            "type": "Person",
+            "sequences": [
+                8
+            ]
+        },
+        {
+            "entity": "Mary of Austria",
+            "type": "Person",
+            "sequences": [
+                9,
+                16,
+                46
+            ]
+        },
+        {
+            "entity": "Juan de Carrillo",
+            "type": "Person",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "The Other Court",
+            "type": "Event",
+            "sequences": [
+                9
+            ]
+        },
+        {
+            "entity": "Emperor Maximilian",
+            "type": "Person",
+            "sequences": [
+                16
+            ]
+        },
+        {
+            "entity": "Maria of Austria",
+            "type": "Person",
+            "sequences": [
+                16
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                27
+            ]
+        },
+        {
+            "entity": "Sister María Jesús de Agreda",
+            "type": "Person",
+            "sequences": [
+                28
+            ]
+        },
+        {
+            "entity": "Felipe IV",
+            "type": "Person",
+            "sequences": [
+                28
+            ]
+        },
+        {
+            "entity": "Caroline Walker Bynum",
+            "type": "Person",
+            "sequences": [
+                39
+            ]
+        },
+        {
+            "entity": "Margaret of the Cross",
+            "type": "Person",
+            "sequences": [
+                47,
+                48
+            ]
+        },
+        {
+            "entity": "Vienna",
+            "type": "Place",
+            "sequences": [
+                47
+            ]
+        },
+        {
+            "entity": "Juan de Palma",
+            "type": "Person",
+            "sequences": [
+                47,
+                48
+            ]
+        },
+        {
+            "entity": "Philip IV",
+            "type": "Person",
+            "sequences": [
+                48
+            ]
+        },
+        {
+            "entity": "Child Jesus",
+            "type": "Religious Figure",
+            "sequences": [
+                48,
+                49,
+                52,
+                53,
+                56
+            ]
+        },
+        {
+            "entity": "Caroline Walker Bynum",
+            "type": "Person",
+            "sequences": [
+                49
+            ]
+        },
+        {
+            "entity": "Johan Bierix",
+            "type": "Person",
+            "sequences": [
+                49
+            ]
+        },
+        {
+            "entity": "St. Francis",
+            "type": "Person",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Franciscan Poor Clares",
+            "type": "Organization",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Dominican nuns",
+            "type": "Organization",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Germany",
+            "type": "Place",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Italy",
+            "type": "Place",
+            "sequences": [
+                52
+            ]
+        },
+        {
+            "entity": "Las Descalzas Reales",
+            "type": "Place",
+            "sequences": [
+                66
+            ]
+        },
+        {
+            "entity": "Maya",
+            "type": "Object",
+            "sequences": [
+                69,
+                70
+            ]
+        },
+        {
+            "entity": "Sergio",
+            "type": "Object",
+            "sequences": [
+                71,
+                72,
+                73
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "The book by Caroline Walker Bynum discussing the importance of tactility in female spiritual experience",
+            "sequence": 39
+        }
+    ]
+}

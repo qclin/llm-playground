@@ -1,0 +1,758 @@
+{
+    "topics": [
+        {
+            "topic": "Introduction and Casual Conversation",
+            "sequence_range": "1-12",
+            "start_time": 18892,
+            "end_time": 66967
+        },
+        {
+            "topic": "Food and Daily Life",
+            "sequence_range": "13-22",
+            "start_time": 68101,
+            "end_time": 128442
+        },
+        {
+            "topic": "Astrological Events and Personal Experiences",
+            "sequence_range": "23-34",
+            "start_time": 128762,
+            "end_time": 251648
+        },
+        {
+            "topic": "Astrology, Horoscopes, and Predictions",
+            "sequence_range": "35-58",
+            "start_time": 251988,
+            "end_time": 465326
+        },
+        {
+            "topic": "Historical Astrology and Juan Luis Vives",
+            "sequence_range": "59-104",
+            "start_time": 465966,
+            "end_time": 1151949
+        },
+        {
+            "topic": "Astrology as a Social Practice and Public Debate",
+            "sequence_range": "105-136",
+            "start_time": 1152129,
+            "end_time": 1482067
+        },
+        {
+            "topic": "Astrology and Historical Events",
+            "sequence_range": "137-142",
+            "start_time": 1483383,
+            "end_time": 1697206
+        },
+        {
+            "topic": "Natural Astrology and Literature",
+            "sequence_range": "138-142",
+            "start_time": 1517038,
+            "end_time": 1697206
+        },
+        {
+            "topic": "Personal Anecdotes and Astrology",
+            "sequence_range": "139-181",
+            "start_time": 1605326,
+            "end_time": 2100960
+        },
+        {
+            "topic": "Judiciary or Divinatory Astrology",
+            "sequence_range": "143-168",
+            "start_time": 1700110,
+            "end_time": 1986243
+        },
+        {
+            "topic": "Baroque Astrology Practices",
+            "sequence_range": "167-196",
+            "start_time": 1936112,
+            "end_time": 2243295
+        },
+        {
+            "topic": "Listener Interactions and Baroque Horoscopes",
+            "sequence_range": "183-214",
+            "start_time": 2114192,
+            "end_time": 2392425
+        },
+        {
+            "topic": "Theological and Inquisitorial Debate on Astrology",
+            "sequence_range": "219-254",
+            "start_time": 2570909,
+            "end_time": 2993777
+        },
+        {
+            "topic": "Historical Astrology and Inquisition",
+            "sequence_range": "255-257",
+            "start_time": 2994137,
+            "end_time": 3175620
+        },
+        {
+            "topic": "Astrology in Religious Practices",
+            "sequence_range": "258-260",
+            "start_time": 3183782,
+            "end_time": 3252827
+        },
+        {
+            "topic": "Literature on Astrology and Religious Imagery",
+            "sequence_range": "261-265",
+            "start_time": 3255008,
+            "end_time": 3419864
+        },
+        {
+            "topic": "Astrology in Public Opinion and Science",
+            "sequence_range": "266-273",
+            "start_time": 3421105,
+            "end_time": 3511584
+        },
+        {
+            "topic": "Astrology in Modern Culture and Criticism",
+            "sequence_range": "274-305",
+            "start_time": 3512905,
+            "end_time": 4059383
+        },
+        {
+            "topic": "Astrology and its Social Role in the 17th Century",
+            "sequence_range": "306-317",
+            "start_time": 4059923,
+            "end_time": 4443005
+        },
+        {
+            "topic": "Astrology in Literature and Show Business",
+            "sequence_range": "318-327",
+            "start_time": 4443025,
+            "end_time": 4534374
+        },
+        {
+            "topic": "Astrology and Literature",
+            "sequence_range": "328-340",
+            "start_time": 4534935,
+            "end_time": 4705200
+        },
+        {
+            "topic": "Historical and Prophetic Dreams",
+            "sequence_range": "341-345",
+            "start_time": 4705260,
+            "end_time": 4783090
+        },
+        {
+            "topic": "Astrology in Personal Life",
+            "sequence_range": "346-391",
+            "start_time": 4783270,
+            "end_time": 5300209
+        },
+        {
+            "topic": "Arcadia and Astrological Games",
+            "sequence_range": "392-438",
+            "start_time": 5300229,
+            "end_time": 5745151
+        },
+        {
+            "topic": "Astrology as a Tool for Self-Knowledge and Fun",
+            "sequence_range": "439-446",
+            "start_time": 5745191,
+            "end_time": 5842439
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                2
+            ]
+        },
+        {
+            "entity": "Karen",
+            "type": "Person",
+            "sequences": [
+                2
+            ]
+        },
+        {
+            "entity": "Felipe's daughters",
+            "type": "Group",
+            "sequences": [
+                5
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                10,
+                11,
+                19,
+                70,
+                72,
+                74,
+                75,
+                92,
+                93
+            ]
+        },
+        {
+            "entity": "Rhode Island",
+            "type": "Place",
+            "sequences": [
+                11
+            ]
+        },
+        {
+            "entity": "Scorpio Season",
+            "type": "Event",
+            "sequences": [
+                23
+            ]
+        },
+        {
+            "entity": "Lunar Eclipse",
+            "type": "Event",
+            "sequences": [
+                23,
+                24,
+                26,
+                28,
+                29,
+                33
+            ]
+        },
+        {
+            "entity": "Susan Miller",
+            "type": "Person",
+            "sequences": [
+                33,
+                34,
+                35,
+                37,
+                38
+            ]
+        },
+        {
+            "entity": "Charlene",
+            "type": "Person",
+            "sequences": [
+                34
+            ]
+        },
+        {
+            "entity": "Charkastrology",
+            "type": "Person",
+            "sequences": [
+                55,
+                56,
+                57,
+                58
+            ]
+        },
+        {
+            "entity": "Juan Luis Vives",
+            "type": "Person",
+            "sequences": [
+                59,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104
+            ]
+        },
+        {
+            "entity": "Prado Museum",
+            "type": "Organization",
+            "sequences": [
+                63
+            ]
+        },
+        {
+            "entity": "Esperanza Gracia",
+            "type": "Person",
+            "sequences": [
+                105
+            ]
+        },
+        {
+            "entity": "Holy Roman Empire",
+            "type": "Place",
+            "sequences": [
+                113,
+                114,
+                115,
+                116,
+                117,
+                119
+            ]
+        },
+        {
+            "entity": "Johannes Stoffler",
+            "type": "Person",
+            "sequences": [
+                117
+            ]
+        },
+        {
+            "entity": "Charles V",
+            "type": "Person",
+            "sequences": [
+                119
+            ]
+        },
+        {
+            "entity": "1524",
+            "type": "Year",
+            "sequences": [
+                137
+            ]
+        },
+        {
+            "entity": "1583",
+            "type": "Year",
+            "sequences": [
+                137
+            ]
+        },
+        {
+            "entity": "1588",
+            "type": "Year",
+            "sequences": [
+                137
+            ]
+        },
+        {
+            "entity": "Juan Gracian",
+            "type": "Person",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "1606",
+            "type": "Year",
+            "sequences": [
+                138
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                140
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                140,
+                205,
+                230,
+                232,
+                236
+            ]
+        },
+        {
+            "entity": "Aragon",
+            "type": "Place",
+            "sequences": [
+                142
+            ]
+        },
+        {
+            "entity": "Sigüenza y Góngora",
+            "type": "Person",
+            "sequences": [
+                142
+            ]
+        },
+        {
+            "entity": "Caliza",
+            "type": "Organization",
+            "sequences": [
+                142
+            ]
+        },
+        {
+            "entity": "El descenso",
+            "type": "Event",
+            "sequences": [
+                142
+            ]
+        },
+        {
+            "entity": "Jesus Christ",
+            "type": "Person",
+            "sequences": [
+                145
+            ]
+        },
+        {
+            "entity": "Juan Luis Vives",
+            "type": "Person",
+            "sequences": [
+                145
+            ]
+        },
+        {
+            "entity": "Charkastrology",
+            "type": "Organization",
+            "sequences": [
+                173
+            ]
+        },
+        {
+            "entity": "Aerolíneas Federales",
+            "type": "Organization",
+            "sequences": [
+                215,
+                217
+            ]
+        },
+        {
+            "entity": "Dominicans",
+            "type": "Organization",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Jesuits",
+            "type": "Organization",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                223,
+                225
+            ]
+        },
+        {
+            "entity": "Domingo Báñez",
+            "type": "Person",
+            "sequences": [
+                225
+            ]
+        },
+        {
+            "entity": "Council of Trent",
+            "type": "Event",
+            "sequences": [
+                226
+            ]
+        },
+        {
+            "entity": "Coeli et Terrai",
+            "type": "Document",
+            "sequences": [
+                226
+            ]
+        },
+        {
+            "entity": "Quiroga",
+            "type": "Person",
+            "sequences": [
+                226,
+                239
+            ]
+        },
+        {
+            "entity": "CoStar",
+            "type": "Application",
+            "sequences": [
+                228,
+                231
+            ]
+        },
+        {
+            "entity": "The Pattern",
+            "type": "Application",
+            "sequences": [
+                242
+            ]
+        },
+        {
+            "entity": "National Historical Archive",
+            "type": "Place",
+            "sequences": [
+                255
+            ]
+        },
+        {
+            "entity": "Francisco Temudo",
+            "type": "Person",
+            "sequences": [
+                255
+            ]
+        },
+        {
+            "entity": "University of Valladolid",
+            "type": "Organization",
+            "sequences": [
+                255
+            ]
+        },
+        {
+            "entity": "Inquisition",
+            "type": "Organization",
+            "sequences": [
+                255,
+                257
+            ]
+        },
+        {
+            "entity": "Jesuits",
+            "type": "Organization",
+            "sequences": [
+                259,
+                260,
+                267,
+                268
+            ]
+        },
+        {
+            "entity": "Francisco de Florencia",
+            "type": "Person",
+            "sequences": [
+                265
+            ]
+        },
+        {
+            "entity": "Marian Zodiac",
+            "type": "Literature",
+            "sequences": [
+                263,
+                265
+            ]
+        },
+        {
+            "entity": "María Jesús de Agreda",
+            "type": "Person",
+            "sequences": [
+                269,
+                271,
+                287
+            ]
+        },
+        {
+            "entity": "Manolo Escobar",
+            "type": "Person",
+            "sequences": [
+                282,
+                286
+            ]
+        },
+        {
+            "entity": "Cristóbal Suárez de Figueroa",
+            "type": "Person",
+            "sequences": [
+                294,
+                295,
+                304,
+                306
+            ]
+        },
+        {
+            "entity": "Nicolas de Larmeson",
+            "type": "Person",
+            "sequences": [
+                308
+            ]
+        },
+        {
+            "entity": "Lope de Vega",
+            "type": "Person",
+            "sequences": [
+                319,
+                322
+            ]
+        },
+        {
+            "entity": "Felipe IV",
+            "type": "Person",
+            "sequences": [
+                326
+            ]
+        },
+        {
+            "entity": "Lope",
+            "type": "Person",
+            "sequences": [
+                328,
+                330,
+                332,
+                334,
+                338,
+                340,
+                356,
+                358,
+                368,
+                376,
+                435,
+                437
+            ]
+        },
+        {
+            "entity": "Philip IV",
+            "type": "Person",
+            "sequences": [
+                328,
+                329,
+                330,
+                334,
+                338,
+                340
+            ]
+        },
+        {
+            "entity": "Lucrecia de Leon",
+            "type": "Person",
+            "sequences": [
+                343
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                343,
+                344
+            ]
+        },
+        {
+            "entity": "Lope de Vega",
+            "type": "Person",
+            "sequences": [
+                350,
+                351,
+                355
+            ]
+        },
+        {
+            "entity": "Anfrisio",
+            "type": "Character",
+            "sequences": [
+                360,
+                362,
+                364,
+                366,
+                368,
+                397
+            ]
+        },
+        {
+            "entity": "Belisarda",
+            "type": "Character",
+            "sequences": [
+                362,
+                363
+            ]
+        },
+        {
+            "entity": "Dardanio",
+            "type": "Character",
+            "sequences": [
+                364,
+                368
+            ]
+        },
+        {
+            "entity": "Polinesta",
+            "type": "Character",
+            "sequences": [
+                378
+            ]
+        },
+        {
+            "entity": "Friso",
+            "type": "Character",
+            "sequences": [
+                378
+            ]
+        },
+        {
+            "entity": "Frondoso",
+            "type": "Character",
+            "sequences": [
+                378
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                348,
+                372,
+                412,
+                413
+            ]
+        },
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                381,
+                394
+            ]
+        },
+        {
+            "entity": "Sandro",
+            "type": "Person",
+            "sequences": [
+                446,
+                447
+            ]
+        },
+        {
+            "entity": "Francisca",
+            "type": "Person",
+            "sequences": [
+                447
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Astrological gift that Juan Luis Vives gives to his friend",
+            "sequence": 68
+        }
+    ]
+}

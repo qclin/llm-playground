@@ -9,7 +9,7 @@ api_key = os.getenv('ASSEMBLY_API_KEY')
 transcribe_url = f'{base_url}/transcript'
 headers = {'authorization': api_key}
 
-def transcribe_audio(file_path):
+def transcribe_audio(file_path, title):
     """
     Uploads an audio file and transcribes it using AssemblyAI.
     """
@@ -51,11 +51,12 @@ def transcribe_audio(file_path):
     
     audio_url = upload_audio(file_path)
     transcription_id = request_transcription(audio_url)
+    print(f'{title} -[transcription_id] {transcription_id}')
     transcription_result = check_transcription(transcription_id)
     
     return transcription_result
 
-def save_json(data, file_name, folder_path='transcriptions'):
+def save_json(data, file_path):
     # Extract utterances with specific fields
     selected_data = []
     for index, utterance in enumerate(data.get('utterances', [])):
@@ -72,18 +73,9 @@ def save_json(data, file_name, folder_path='transcriptions'):
         }
         selected_data.append(utterance_data)
 
-    # Create folder if it doesn't exist
-    os.makedirs(folder_path, exist_ok=True)
-    file_path = os.path.join(folder_path, f"{file_name}_utterances.json")
-
     write_json(selected_data, file_path)
 
-def main(title, season): 
+def main(title, season, utterances_path): 
     audio_file_path = f'./Audio/season_{season}/{title}.mp3'
-    transcript_file_path = f'./transcriptions/{title}_utterances.json'
-
-    if check_json_file(transcript_file_path):
-        return 
-    else: 
-        transcription_result = transcribe_audio(audio_file_path)
-        save_json(transcription_result, os.path.splitext(os.path.basename(audio_file_path))[0])
+    transcription_result = transcribe_audio(audio_file_path, title)
+    save_json(transcription_result, utterances_path)

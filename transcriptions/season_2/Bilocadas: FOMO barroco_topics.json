@@ -1,0 +1,861 @@
+{
+    "topics": [
+        {
+            "topic": "Personal interactions and daily life",
+            "sequence_range": "1-9",
+            "start_time": 15550,
+            "end_time": 94398
+        },
+        {
+            "topic": "Effects of COVID-19",
+            "sequence_range": "4-7",
+            "start_time": 25297,
+            "end_time": 67885
+        },
+        {
+            "topic": "Bilocation and its implications",
+            "sequence_range": "15-78",
+            "start_time": 175179,
+            "end_time": 1451067
+        },
+        {
+            "topic": "Historical and religious figures",
+            "sequence_range": "42-78",
+            "start_time": 723537,
+            "end_time": 1451067
+        },
+        {
+            "topic": "Bilocation and its link to various concepts",
+            "sequence_range": "79-85",
+            "start_time": 1452168,
+            "end_time": 1632491
+        },
+        {
+            "topic": "Historical anecdotes and appearances",
+            "sequence_range": "80-99",
+            "start_time": 1461112,
+            "end_time": 1919920
+        },
+        {
+            "topic": "The visit of the Prince of Wales and its implications",
+            "sequence_range": "86-96",
+            "start_time": 1633058,
+            "end_time": 1832259
+        },
+        {
+            "topic": "Theological and mystical discussions on bilocation",
+            "sequence_range": "100-106",
+            "start_time": 1920120,
+            "end_time": 2125280
+        },
+        {
+            "topic": "María Jesús de Agreda and related discussions",
+            "sequence_range": "119-144",
+            "start_time": 2292118,
+            "end_time": 2837469
+        },
+        {
+            "topic": "María Jesús de Agreda's life and phenomena",
+            "sequence_range": "145-168",
+            "start_time": 2837989,
+            "end_time": 3348097
+        },
+        {
+            "topic": "Mystical experiences and levitation",
+            "sequence_range": "149-154",
+            "start_time": 2889274,
+            "end_time": 2980409
+        },
+        {
+            "topic": "Bilocation and missionary work",
+            "sequence_range": "161-166",
+            "start_time": 3028513,
+            "end_time": 3230615
+        },
+        {
+            "topic": "Nature and scientific curiosity",
+            "sequence_range": "167-180",
+            "start_time": 3231745,
+            "end_time": 3556321
+        },
+        {
+            "topic": "Cultural impact and recognition",
+            "sequence_range": "181-184",
+            "start_time": 3557139,
+            "end_time": 3729733
+        },
+        {
+            "topic": "Jerónima del Espíritu Santo and her autobiography",
+            "sequence_range": "200-220",
+            "start_time": 3793050,
+            "end_time": 4135504
+        },
+        {
+            "topic": "Saint Teresa and her connection to America",
+            "sequence_range": "221",
+            "start_time": 4136845,
+            "end_time": 4233302
+        },
+        {
+            "topic": "Personal reflections on geography and orientation",
+            "sequence_range": "222-223",
+            "start_time": 4237028,
+            "end_time": 4269986
+        },
+        {
+            "topic": "Bilocation and nuns",
+            "sequence_range": "224-234",
+            "start_time": 4270046,
+            "end_time": 4486200
+        },
+        {
+            "topic": "Bilocation in contemporary and historical figures",
+            "sequence_range": "235-240",
+            "start_time": 4488100,
+            "end_time": 4604275
+        },
+        {
+            "topic": "Music and bilocation",
+            "sequence_range": "243-245",
+            "start_time": 4627108,
+            "end_time": 4809638
+        },
+        {
+            "topic": "Literature and bilocation",
+            "sequence_range": "246-247",
+            "start_time": 4818125,
+            "end_time": 4920030
+        },
+        {
+            "topic": "FOMO and bilocation",
+            "sequence_range": "254-260",
+            "start_time": 5012597,
+            "end_time": 5152593
+        }
+    ],
+    "entities": [
+        {
+            "entity": "Ana",
+            "type": "Person",
+            "sequences": [
+                1,
+                2,
+                34,
+                36,
+                37,
+                38
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                2,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                18,
+                22,
+                33,
+                35,
+                36,
+                37,
+                38,
+                39,
+                41,
+                42,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78
+            ]
+        },
+        {
+            "entity": "COVID",
+            "type": "Disease",
+            "sequences": [
+                6
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                10,
+                21,
+                25,
+                35,
+                39
+            ]
+        },
+        {
+            "entity": "La Tasca Suprema",
+            "type": "Place",
+            "sequences": [
+                12
+            ]
+        },
+        {
+            "entity": "Felipe",
+            "type": "Person",
+            "sequences": [
+                15
+            ]
+        },
+        {
+            "entity": "María Izquierdo",
+            "type": "Person",
+            "sequences": [
+                18
+            ]
+        },
+        {
+            "entity": "Góngora",
+            "type": "Person",
+            "sequences": [
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "entity": "Soledades",
+            "type": "Literature",
+            "sequences": [
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "entity": "Providence",
+            "type": "Place",
+            "sequences": [
+                20,
+                25,
+                35
+            ]
+        },
+        {
+            "entity": "London",
+            "type": "Place",
+            "sequences": [
+                25
+            ]
+        },
+        {
+            "entity": "catholic.net",
+            "type": "Website",
+            "sequences": [
+                34
+            ]
+        },
+        {
+            "entity": "Luisa Colmenares Cabezón",
+            "type": "Person",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Santa Clara de Carrión",
+            "type": "Organization",
+            "sequences": [
+                44
+            ]
+        },
+        {
+            "entity": "Luisa de la Ascensión",
+            "type": "Person",
+            "sequences": [
+                44,
+                45,
+                47,
+                54,
+                55,
+                57,
+                58,
+                62,
+                63,
+                67,
+                68,
+                69,
+                72,
+                73,
+                74,
+                75,
+                76
+            ]
+        },
+        {
+            "entity": "Antonio Daza",
+            "type": "Person",
+            "sequences": [
+                54
+            ]
+        },
+        {
+            "entity": "Pedro de Balbas",
+            "type": "Person",
+            "sequences": [
+                68
+            ]
+        },
+        {
+            "entity": "Memorial Informativo de Sor Luisa de la Ascensión",
+            "type": "Literature",
+            "sequences": [
+                68
+            ]
+        },
+        {
+            "entity": "Philip II",
+            "type": "Person",
+            "sequences": [
+                30
+            ]
+        },
+        {
+            "entity": "Fray José de Sigüenza",
+            "type": "Person",
+            "sequences": [
+                30
+            ]
+        },
+        {
+            "entity": "Estefanía de la Encarnación",
+            "type": "Person",
+            "sequences": [
+                63
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                49
+            ]
+        },
+        {
+            "entity": "Petronila de las Llagas",
+            "type": "Person",
+            "sequences": [
+                51,
+                52,
+                53
+            ]
+        },
+        {
+            "entity": "Marvel",
+            "type": "Organization",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Duke of Caesar",
+            "type": "Person",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Luisa de la Extensión",
+            "type": "Person",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Doña María Osorio",
+            "type": "Person",
+            "sequences": [
+                80,
+                82
+            ]
+        },
+        {
+            "entity": "Don Pedro de Ávila",
+            "type": "Person",
+            "sequences": [
+                80
+            ]
+        },
+        {
+            "entity": "Madrid",
+            "type": "Place",
+            "sequences": [
+                80,
+                82
+            ]
+        },
+        {
+            "entity": "Carrion",
+            "type": "Place",
+            "sequences": [
+                85,
+                86,
+                88,
+                90,
+                95,
+                96
+            ]
+        },
+        {
+            "entity": "King Philip III",
+            "type": "Person",
+            "sequences": [
+                85
+            ]
+        },
+        {
+            "entity": "Duke of Lerma",
+            "type": "Person",
+            "sequences": [
+                85,
+                86
+            ]
+        },
+        {
+            "entity": "Moors",
+            "type": "Ethnic Group",
+            "sequences": [
+                85
+            ]
+        },
+        {
+            "entity": "Petronila de Las Llagas",
+            "type": "Person",
+            "sequences": [
+                86,
+                87,
+                88,
+                94
+            ]
+        },
+        {
+            "entity": "Prince of Wales",
+            "type": "Person",
+            "sequences": [
+                88,
+                90,
+                91,
+                95,
+                96
+            ]
+        },
+        {
+            "entity": "Empress Mariana of Austria",
+            "type": "Person",
+            "sequences": [
+                91
+            ]
+        },
+        {
+            "entity": "Víctor Puello",
+            "type": "Person",
+            "sequences": [
+                102
+            ]
+        },
+        {
+            "entity": "María Jesús de Agreda",
+            "type": "Person",
+            "sequences": [
+                102,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144
+            ]
+        },
+        {
+            "entity": "Santa Teresa",
+            "type": "Person",
+            "sequences": [
+                123
+            ]
+        },
+        {
+            "entity": "Fray José de Sigüencia",
+            "type": "Person",
+            "sequences": [
+                123
+            ]
+        },
+        {
+            "entity": "Catherine of Sand",
+            "type": "Person",
+            "sequences": [
+                130
+            ]
+        },
+        {
+            "entity": "María Jesús de Agreda",
+            "type": "Person",
+            "sequences": [
+                145,
+                147,
+                150,
+                153,
+                154,
+                158,
+                160,
+                161,
+                162,
+                166,
+                167,
+                168,
+                173,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                182,
+                183,
+                184
+            ]
+        },
+        {
+            "entity": "Council of Trent",
+            "type": "Organization",
+            "sequences": [
+                147
+            ]
+        },
+        {
+            "entity": "Jumanos",
+            "type": "Ethnic Group",
+            "sequences": [
+                162
+            ]
+        },
+        {
+            "entity": "San Agustín church",
+            "type": "Place",
+            "sequences": [
+                162
+            ]
+        },
+        {
+            "entity": "New Mexico",
+            "type": "Place",
+            "sequences": [
+                162,
+                183
+            ]
+        },
+        {
+            "entity": "Texas",
+            "type": "Place",
+            "sequences": [
+                162,
+                183
+            ]
+        },
+        {
+            "entity": "Northern Mexico",
+            "type": "Place",
+            "sequences": [
+                162
+            ]
+        },
+        {
+            "entity": "Luisa de la Ascensión",
+            "type": "Person",
+            "sequences": [
+                166
+            ]
+        },
+        {
+            "entity": "Conceptionists",
+            "type": "Organization",
+            "sequences": [
+                166
+            ]
+        },
+        {
+            "entity": "National Museum of the Viceroyalty of Mexico",
+            "type": "Organization",
+            "sequences": [
+                182
+            ]
+        },
+        {
+            "entity": "Joseph Webber",
+            "type": "Person",
+            "sequences": [
+                184
+            ]
+        },
+        {
+            "entity": "Jerónima del Espíritu Santo",
+            "type": "Person",
+            "sequences": [
+                200,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220
+            ]
+        },
+        {
+            "entity": "New Kingdom of Granada",
+            "type": "Place",
+            "sequences": [
+                204
+            ]
+        },
+        {
+            "entity": "Colombia",
+            "type": "Country",
+            "sequences": [
+                204
+            ]
+        },
+        {
+            "entity": "Saint Teresa",
+            "type": "Person",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Indies",
+            "type": "Place",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Salamanca",
+            "type": "Place",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Lima",
+            "type": "Place",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Maria San Jose",
+            "type": "Person",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Seville",
+            "type": "Place",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Lorenzo",
+            "type": "Person",
+            "sequences": [
+                221
+            ]
+        },
+        {
+            "entity": "Carmen",
+            "type": "Person",
+            "sequences": [
+                223,
+                225
+            ]
+        },
+        {
+            "entity": "Victor Puello",
+            "type": "Person",
+            "sequences": [
+                225
+            ]
+        },
+        {
+            "entity": "Canary Islands",
+            "type": "Place",
+            "sequences": [
+                225,
+                227
+            ]
+        },
+        {
+            "entity": "María de León",
+            "type": "Person",
+            "sequences": [
+                227
+            ]
+        },
+        {
+            "entity": "Santa Catalina",
+            "type": "Organization",
+            "sequences": [
+                227
+            ]
+        },
+        {
+            "entity": "Amaro Rodriguez Felipe",
+            "type": "Person",
+            "sequences": [
+                229
+            ]
+        },
+        {
+            "entity": "Cuba",
+            "type": "Place",
+            "sequences": [
+                233
+            ]
+        },
+        {
+            "entity": "Pio from Pietrelchina",
+            "type": "Person",
+            "sequences": [
+                239
+            ]
+        },
+        {
+            "entity": "Maria Massa",
+            "type": "Person",
+            "sequences": [
+                240
+            ]
+        },
+        {
+            "entity": "San Giovanni Rotondo",
+            "type": "Place",
+            "sequences": [
+                240
+            ]
+        },
+        {
+            "entity": "Alex and Cristina",
+            "type": "Person",
+            "sequences": [
+                243
+            ]
+        },
+        {
+            "entity": "Bon Bon Chip",
+            "type": "Organization",
+            "sequences": [
+                246
+            ]
+        },
+        {
+            "entity": "Berta García Fahed",
+            "type": "Person",
+            "sequences": [
+                246
+            ]
+        },
+        {
+            "entity": "Orofrisia de Mendoza",
+            "type": "Person",
+            "sequences": [
+                249
+            ]
+        },
+        {
+            "entity": "Lorenzo de Cepeda",
+            "type": "Person",
+            "sequences": [
+                249
+            ]
+        },
+        {
+            "entity": "Quito",
+            "type": "Place",
+            "sequences": [
+                249
+            ]
+        },
+        {
+            "entity": "Rhode Island",
+            "type": "Place",
+            "sequences": [
+                258
+            ]
+        }
+    ],
+    "citations": [
+        {
+            "citation": "Soledades by Góngora",
+            "sequence": 18
+        }
+    ]
+}
