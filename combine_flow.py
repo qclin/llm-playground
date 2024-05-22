@@ -1,5 +1,5 @@
 from scripts.process_json import load_json, check_json_file
-from transcribe_assembly_json import main as transcribe
+from transcribe_assembly_json import transcibe_and_save as transcribe
 from highlights import main as find_highlights
 from scripts.translate_json_es_to_en import translate_transcription
 from scripts.map_sequence_to_time import map_sequence_to_time

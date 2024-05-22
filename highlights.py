@@ -47,7 +47,7 @@ def find_highlights_and_entities(chunk):
         "and specifically identify any citations of literature (books, articles, authors, publication details) along with the sequence number each citation is mentioned in. "
         "For entities, organize them into objects with 'entity', 'type', and 'sequences', where 'sequences' is a list of all unique sequence numbers the entity appears in. "
         "Return a JSON object with 'topics', each containing 'topic' and a range of 'sequences' associated with it; 'entities', a list of such objects; "
-        "and 'citations', a list of objects with 'citation' details and 'sequence'. Ensure 'sequences' for topics are ranges (e.g., '1-5'), while for entities, 'sequences' should list all appearances, and for citations, include specific sequence numbers."
+        "and 'citations', a list of objects with 'citation' details and 'sequence'. Ensure 'sequences' for topics are ranges (e.g., '1-5') and max one range per topic, otherwise be more specific. While for entities, 'sequences' should list all appearances, and for citations, include specific sequence numbers."
     )
 
     response = client.chat.completions.create(
@@ -66,7 +66,6 @@ def find_highlights_and_entities(chunk):
         temperature=0,
         frequency_penalty=0,
         presence_penalty=0,
-
     )
     
    
@@ -100,7 +99,7 @@ def main(input_file, output_file):
     # Load the transcript data from the uploaded JSON file
     transcript_data = load_json(input_file)
 
-    input_data = [{"text": subtitle['text_en'], "sequence": subtitle['sequence']} for subtitle in transcript_data]
+    input_data = [{"text": subtitle['text_en'], "sequence": subtitle['sequence']} for subtitle in transcript_data.get('utterances', [])]
     # Split the transcript data into chunks
     chunks = split_into_chunks(input_data)
 
