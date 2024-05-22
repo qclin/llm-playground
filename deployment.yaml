@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mi-manjar-server-deployment
+  namespace: mi-manjar-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mi-manjar-server
+  template:
+    metadata:
+      labels:
+        app: mi-manjar-server
+    spec:
+      containers:
+        - name: mi-manjar-server
+          image: qiaoclin/mi-manjar-server:v1
+          ports:
+            - containerPort: 5000

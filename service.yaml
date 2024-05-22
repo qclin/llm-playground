@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mi-manjar-server-service
+  namespace: mi-manjar-server
+  labels:
+    app: mi-manjar-server
+spec:
+  selector:
+    app: mi-manjar-server
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5000
