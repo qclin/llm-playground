@@ -25,7 +25,7 @@ def map_sequence_to_time(utterances_path, topics_path):
         # Find utterances that fall within this sequence range and determine their start and end times
         start_times = []
         end_times = []
-        for utterance in utterances_data:
+        for utterance in utterances_data["utterances"]:
             if start_seq <= utterance["sequence"] <= end_seq:
                 start_times.append(utterance["start"])
                 end_times.append(utterance["end"])
