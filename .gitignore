@@ -1,16 +1,16 @@
 processed/
-ChatGPT-prompting intro/
 Audio/
 .env
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
 transcriptions/*
-transcriptions/*/*
 cert.pem
 AWSCLIV2.pkg
 key.pem
 kubectl
 kubectl.sha256
 transcription_data.json
+transcriptions/*.json
